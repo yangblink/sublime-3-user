@@ -1,0 +1,1582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"errmsg",
+				"errMsgAry"
+			],
+			[
+				"product",
+				"productId"
+			],
+			[
+				"produc",
+				"productId"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"pag",
+				"paginationOptions"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"adjus",
+				"adjustType"
+			],
+			[
+				"ajd",
+				"adjustType"
+			],
+			[
+				"bascon",
+				"baseConfig"
+			],
+			[
+				"submit",
+				"submitUrl"
+			],
+			[
+				"userinfo",
+				"userInfo"
+			],
+			[
+				"sidenav",
+				"sidenavAccess"
+			],
+			[
+				"userfi",
+				"userInfo"
+			],
+			[
+				"showcomm",
+				"ShowCommission"
+			],
+			[
+				"promotion",
+				"promotionInfo"
+			],
+			[
+				"pagis",
+				"pageSize"
+			],
+			[
+				"bnew",
+				"bNewInfo"
+			],
+			[
+				"black",
+				"blacklist"
+			],
+			[
+				"USERI",
+				"userId"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"tag",
+				"TagStatusOperateName"
+			],
+			[
+				"atomid",
+				"atomIds"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"atomt",
+				"atomTagSelected"
+			],
+			[
+				"cat",
+				"categorySelected"
+			],
+			[
+				"leve",
+				"level1"
+			],
+			[
+				"lev",
+				"level1"
+			],
+			[
+				"level",
+				"level2"
+			],
+			[
+				"mock",
+				"mockSrv"
+			],
+			[
+				"subcat",
+				"subCategory"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"subcategor",
+				"subCategorySelected"
+			],
+			[
+				"category",
+				"categorySelected"
+			],
+			[
+				"catg",
+				"categoryList"
+			],
+			[
+				"dat",
+				"dataSvc"
+			],
+			[
+				"editor",
+				"EditorTagCtrl"
+			],
+			[
+				"pagin",
+				"pageInfo"
+			],
+			[
+				"user",
+				"USERTAG_COFNIG"
+			],
+			[
+				"communit",
+				"communityNav"
+			],
+			[
+				"isn",
+				"isNewPosts"
+			],
+			[
+				"para",
+				"param"
+			],
+			[
+				"topp",
+				"topposts"
+			],
+			[
+				"repla",
+				"replaceStr"
+			],
+			[
+				"old",
+				"oldV"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"show",
+				"show"
+			],
+			[
+				"page",
+				"pageInfo"
+			],
+			[
+				"type",
+				"typeobj"
+			],
+			[
+				"userty",
+				"userType"
+			],
+			[
+				"posti",
+				"postid"
+			],
+			[
+				"img",
+				"imgStr"
+			],
+			[
+				"item",
+				"itemStatus"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"upload",
+				"uploaderID"
+			],
+			[
+				"uplo",
+				"uploaderID"
+			],
+			[
+				"new",
+				"newUploader"
+			],
+			[
+				"post",
+				"postId"
+			],
+			[
+				"sele",
+				"selectedGood"
+			],
+			[
+				"shortcall",
+				"shortCallErr"
+			],
+			[
+				"par",
+				"param"
+			],
+			[
+				"sera",
+				"searchResult"
+			],
+			[
+				"commu",
+				"COMMUNITY_CONFIG"
+			],
+			[
+				"tabl",
+				"TABLE_LIST_CONFIG"
+			],
+			[
+				"commun",
+				"communitySvc"
+			],
+			[
+				"genter",
+				"generateServiceGroup"
+			],
+			[
+				"http",
+				"httpParamSerializerJQLike"
+			],
+			[
+				"htt",
+				"httpParamSerializerJQLike"
+			],
+			[
+				"HTTP",
+				"httpParamSerializerJQLike"
+			],
+			[
+				"popu",
+				"popup2"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"plan",
+				"planbook_dir"
+			],
+			[
+				"insur",
+				"insure1"
+			],
+			[
+				"add",
+				"add1"
+			],
+			[
+				"zhuyuand",
+				"zhuyuanDailybaoe"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"baoe",
+				"baoe2"
+			],
+			[
+				"setba",
+				"setbaoe2"
+			],
+			[
+				"setb",
+				"setbaoe1"
+			],
+			[
+				"util",
+				"utileData"
+			],
+			[
+				"insure",
+				"insurance"
+			],
+			[
+				"ini",
+				"initData"
+			],
+			[
+				"vide",
+				"videojs_onload"
+			],
+			[
+				"video",
+				"video_attr"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"preset",
+				"preset_videojs"
+			],
+			[
+				"pres",
+				"preset_videojs"
+			],
+			[
+				"showord",
+				"showOrderHas"
+			],
+			[
+				"showro",
+				"showOrderHas"
+			],
+			[
+				"showor",
+				"showOrderRemain"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"time",
+				"times"
+			],
+			[
+				"ti",
+				"times"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"requ",
+				"require_wo_cache"
+			],
+			[
+				"req",
+				"require_wo_cache"
+			],
+			[
+				"requi",
+				"require_wo_cache"
+			],
+			[
+				"main",
+				"mainInfo"
+			],
+			[
+				"ren",
+				"rename"
+			],
+			[
+				"java",
+				"java_js_dir"
+			],
+			[
+				"in",
+				"insureAll"
+			],
+			[
+				"insu",
+				"insureAll"
+			],
+			[
+				"ine",
+				"inject_json"
+			],
+			[
+				"key",
+				"key_js"
+			],
+			[
+				"tpl",
+				"tplData"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"les",
+				"less"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/yangblink/test/github/mint-ui/packages/picker/src/picker.vue",
+			"settings":
+			{
+				"buffer_size": 4515,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/test/github/mint-ui/packages/picker/src/translate.js",
+			"settings":
+			{
+				"buffer_size": 3217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/test/github/mint-ui/packages/picker/src/picker-slot.vue",
+			"settings":
+			{
+				"buffer_size": 12517,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/test/github/mint-ui/packages/picker/index.js",
+			"settings":
+			{
+				"buffer_size": 44,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "java",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"jsont",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"jsong",
+				"Preferences: Pretty JSON Settings - Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"themem",
+				"Material Theme: Activate theme"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"HTTP",
+				"HTMLPrettify"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"HT",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"htt",
+				"HTMLPrettify"
+			],
+			[
+				"http",
+				"HTMLPrettify"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"syntax: json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"httppre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"prettiy ",
+				"HTMLPrettify"
+			],
+			[
+				"set syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ope",
+				"Terminal: Open"
+			],
+			[
+				"jsonf",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"openresou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"op",
+				"Terminal: Open"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"handleb",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 313.0,
+		"history":
+		[
+			"sublime.log_command(True)",
+			"Lorem",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yangblink/test/github/mint-ui",
+		"/Users/yangblink/test/github/mint-ui/src"
+	],
+	"file_history":
+	[
+		"/Users/yangblink/test/github/mint-ui/packages/lazyload/src/lazyload.js",
+		"/Users/yangblink/test/github/mint-ui/package.json",
+		"/Users/yangblink/test/github/mint-ui/packages/datetime-picker/src/datetime-picker.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/picker/index.js",
+		"/Users/yangblink/test/github/mint-ui/build/cooking.conf.js",
+		"/Users/yangblink/test/github/mint-ui/src/index.js",
+		"/Users/yangblink/test/github/mint-ui/lib/lazyload/index.js",
+		"/Users/yangblink/test/github/mint-ui/src/utils/popup/index.js",
+		"/Users/yangblink/test/github/mint-ui/components.json",
+		"/Users/yangblink/test/github/mint-ui/build/bin/build-entry.js",
+		"/Users/yangblink/test/github/mint-ui/build/cooking.demo.js",
+		"/Users/yangblink/test/github/mint-ui/.github/CONTRIBUTING_zh-cn.md",
+		"/Users/yangblink/test/github/mint-ui/packages/picker/src/picker.vue",
+		"/Users/yangblink/test/github/mint-ui/src/utils/popup/popup-manager.js",
+		"/Users/yangblink/test/github/mint-ui/packages/picker/src/picker-slot.vue",
+		"/Users/yangblink/test/github/mint-ui/example/pages/popup.vue",
+		"/Users/yangblink/test/github/mint-ui/example/pages/pull-up.vue",
+		"/Users/yangblink/test/github/mint-ui/example/pages/infinite-scroll.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/infinite-scroll/src/infinite-scroll.js",
+		"/Users/yangblink/test/github/mint-ui/packages/infinite-scroll/index.js",
+		"/Users/yangblink/test/github/mint-ui/packages/infinite-scroll/src/directive.js",
+		"/Users/yangblink/test/github/mint-ui/packages/popup/src/popup.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/field/src/field.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/loadmore/src/loadmore.vue",
+		"/Users/yangblink/test/github/mint-ui/example/pages/pull-down.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/message-box/src/message-box.vue",
+		"/Users/yangblink/test/github/mint-ui/src/style/popup.css",
+		"/Users/yangblink/test/github/mint-ui/src/utils/clickoutside.js",
+		"/Users/yangblink/test/github/mint-ui/packages/cell/src/cell.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/field/index.js",
+		"/Users/yangblink/test/github/mint-ui/packages/message-box/src/message-box.js",
+		"/Users/yangblink/test/github/mint-ui/example/pages/message-box.vue",
+		"/Users/yangblink/test/github/mint-ui/src/utils/dom.js",
+		"/Users/yangblink/test/github/mint-ui/packages/popup/cooking.conf.js",
+		"/Users/yangblink/test/github/mint-ui/src/mixins/emitter.js",
+		"/Users/yangblink/test/github/mint-ui/node_modules/vue/dist/vue.common.js",
+		"/Users/yangblink/test/github/mint-ui/src/style/empty.css",
+		"/Users/yangblink/test/github/mint-ui/packages/popup/index.js",
+		"/Users/yangblink/test/github/mint-ui/node_modules/boom/README.md",
+		"/Users/yangblink/test/github/mint-ui/packages/switch/src/switch.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/actionsheet/src/actionsheet.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/toast/index.js",
+		"/Users/yangblink/test/github/mint-ui/packages/toast/src/toast.vue",
+		"/Users/yangblink/test/github/mint-ui/yarn.lock",
+		"/Users/yangblink/test/github/mint-ui/example/pages/spinner.vue",
+		"/Users/yangblink/test/github/mint-ui/example/app.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/switch/index.js",
+		"/Users/yangblink/test/github/mint-ui/packages/switch/cooking.conf.js",
+		"/Users/yangblink/test/github/mint-ui/src/style/var.css",
+		"/Users/yangblink/test/github/mint-ui/packages/switch/README.md",
+		"/Users/yangblink/test/github/mint-ui/packages/README.md",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/util.js",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/network.js",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/request.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/index/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/insureProgress/insureProgress.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/common/managerlist/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/common/managerlist/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/managerList/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/validator.js",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/validate-config.js",
+		"/Users/yangblink/work/weapp-bxs-insure/component/wetoast/wetoast.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/index/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/policy/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/me/me.js",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/fetch.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/manager/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/makePlan/makePlan.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/getInsure/getInsure.js",
+		"/Users/yangblink/work/weapp-bxs-insure/app.js",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/login.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/policy/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/test.js",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/object-assign.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/makePlan/makePlan.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/manager/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/getInsure/getInsure.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/insureProgress/insureProgress.js",
+		"/Users/yangblink/work/weapp-bxs-insure/app.json",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/share.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/me/me.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/me/me.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/loadFail/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/login/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/loadFail/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/loadFail/index.wxss",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/policy/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/modal.js",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/User/Projects/management-operations.sublime-project",
+		"/Users/yangblink/work/management-operations/gulpfile.js",
+		"/Users/yangblink/work/management-operations/.gitignore",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/ProjectManager/project_manager.sublime-settings",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/User/project_manager.sublime-settings",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/manager/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/component/quantity/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/insureProgress/insureProgress.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/component/quantity/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/component/quantity/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/makePlan/makePlan.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/app.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/common/tempPage/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/common/tempPage/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/managerList/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/component/cell/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/getInsure/getInsure.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/index/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/managerList/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/component/quantity/quantity.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/component/quantity/quantity.wxss",
+		"/Users/yangblink/Downloads/demo/page/API/pages/modal/modal.js",
+		"/Users/yangblink/Downloads/demo/page/component/index.js",
+		"/Users/yangblink/Downloads/demo/page/component/pages/progress/progress.js",
+		"/Users/yangblink/Downloads/demo/page/component/pages/progress/progress.json",
+		"/Users/yangblink/Downloads/demo/page/component/pages/progress/progress.wxml",
+		"/Users/yangblink/Downloads/demo/page/component/pages/button/button.wxml",
+		"/Users/yangblink/Downloads/demo/page/component/pages/navigator/navigator.wxml",
+		"/Users/yangblink/Downloads/demo/page/component/pages/navigator/navigator.js",
+		"/Users/yangblink/Downloads/demo/page/component/pages/button/button.wxss",
+		"/Users/yangblink/Downloads/demo/page/component/pages/navigator/navigator.wxss",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/yangblink/work/wy_bill_management/client/index_raw.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/data-adjust.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/index.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/common/services/data-service.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/commission.js"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 151.0,
+		"where_history":
+		[
+			"<project>,-*/node_modules/*",
+			"<project>,-*/node_module/*",
+			"<project>",
+			"<project>,-*/lib/*",
+			"<project>,-*/lib/index.js/*",
+			"<project>,-*/./lib/index.js/*",
+			"<project>",
+			"<open files>,<open folders>",
+			"<open files>",
+			"/Users/yangblink/test/work/active/node_modules/bootstrap/less",
+			"/Users/yangblink/work/wy_frontend/new-planbook-result2/node_modules/video.js/dist",
+			"/Users/yangblink/work/wy_frontend/new-planbook-result2/src/planbook",
+			"/Users/yangblink/work/wy_frontend/new-planbook-result2/src/less/plan",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"defaultIndex",
+			"immediate",
+			"defaultIndex",
+			"slotValueChange",
+			"values",
+			"slotValueChange",
+			"values",
+			"change",
+			"onChange",
+			"currentValue",
+			"rims",
+			"generateSlots",
+			"dateSlots",
+			"generateSlots",
+			"typeStr",
+			"startHour",
+			"rims",
+			"INTERVAL_MAP",
+			"dateSlots",
+			"visible",
+			"currentValue",
+			"getYear",
+			"getFullYear",
+			"src",
+			"install",
+			"picker-center-highlight",
+			"lockScroll",
+			"scrollEventTarget",
+			"scrollListener",
+			"throttle",
+			"doBind",
+			"require",
+			"defaultIndex",
+			"key",
+			"defaultIndex",
+			"topStatus",
+			"number",
+			"popupTransition",
+			"currentTransition",
+			"handleAction",
+			"msgbox-bounce",
+			"attr",
+			"Clickoutside",
+			"doCloseActive",
+			"active",
+			"state",
+			"doCloseActive",
+			"active",
+			"disableClear",
+			"readonly",
+			"value",
+			"currentValue",
+			"mounted",
+			"open",
+			"cancelButtonClasses",
+			"open",
+			"showNextMsg",
+			"msgboxVue",
+			"alert",
+			"open",
+			"idSeed",
+			"modal",
+			"top",
+			"popupTransition",
+			"currentTransition",
+			"v-modal",
+			"getModal",
+			"open",
+			"value",
+			"openModal",
+			"openmodal",
+			"openModal",
+			"closeOnClickModal",
+			"doOnModalClick",
+			"isServer",
+			"_popupId",
+			"PopupManager",
+			"openModal",
+			"openModal\n",
+			"openmodal",
+			"getModal",
+			"v-modal",
+			"hookTransition",
+			"isServer",
+			"PopupManager",
+			"active",
+			"open",
+			"openModal",
+			"doOpen",
+			"openModal",
+			"v-modal",
+			"v-mode",
+			"open",
+			"transition",
+			"input",
+			"mt-spinner",
+			"mounted",
+			"ctx",
+			"absolute",
+			"managerValidate",
+			"dataset",
+			"showSuccess",
+			"getNextPageNum",
+			"loadPage",
+			"pageNum",
+			"differenceBy",
+			"checkData",
+			"managerValidate1",
+			"checkData",
+			"inputConcat",
+			"changePicker",
+			"Object.assign",
+			"assign",
+			"status",
+			"app",
+			"pageParams",
+			"openType",
+			"info-box",
+			"header-box",
+			"flex",
+			"header-box",
+			"152202199112257791",
+			"header-box",
+			"config",
+			"loadPage",
+			"genDates",
+			"getSrvTime",
+			"getInviteTime"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"defaultIndex",
+			"accessHeader",
+			"whiteinfo",
+			"whitelistCtrl",
+			"blacklistCtrl",
+			"userTag",
+			"commentsCtrl",
+			"postsCtrl",
+			"showProp",
+			"nav1",
+			"all",
+			"元",
+			"XH508",
+			"XH507",
+			"dd",
+			"sj3",
+			"sj2",
+			"sj3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/yangblink/test/github/mint-ui/packages/picker/src/picker.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4515,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										3851,
+										3851
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								550,
+								562
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/yangblink/test/github/mint-ui/packages/picker/src/translate.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								731,
+								731
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/yangblink/test/github/mint-ui/packages/picker/src/picker-slot.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12517,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										12322,
+										12322
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								12303,
+								12315
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10742.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/yangblink/test/github/mint-ui/packages/picker/index.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mint-ui.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".gitign",
+				".gitignore"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"data-s",
+				"client/src/common/services/data-service.js"
+			],
+			[
+				"pro",
+				"build/proxy-middleware.js"
+			],
+			[
+				"tips.js",
+				"client/src/app/tips/tips.js"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"app.js",
+				"express/app/app.js"
+			],
+			[
+				"jquery.js",
+				"dest/js/jquery.js"
+			],
+			[
+				"jiankangyijiayi.js",
+				"src/planbook/taikangbaoxian/jiankangyijiayi/jiankangyijiayi.js"
+			],
+			[
+				"video.js",
+				"node_modules/video.js/dist/video.js"
+			],
+			[
+				"aijiayanglao.js",
+				"src/planbook/taikangrenshou/aijiayanglao/aijiayanglao.js"
+			],
+			[
+				"test.js",
+				"express/app/test.js"
+			],
+			[
+				"yanglao",
+				"src/planbook/taikangrenshou/aijiayanglao/aijiayanglao.js"
+			],
+			[
+				"longxingle",
+				"src/planbook/jianxinrenshou/jianxin_longxingle/jianxin_longxingle.js"
+			],
+			[
+				"jiankangyisheng.js",
+				"src/planbook/renshoubaoxian/jiankangyisheng/jiankangyisheng.js"
+			],
+			[
+				"zhuangyuanhong.js",
+				"src/planbook/huaxiarenshou/huaxia_zhuangyuanhong/huaxia_zhuangyuanhong.js"
+			],
+			[
+				"jiankangwuyoua.js",
+				"src/planbook/xinhuabaoxian/jiankangwuyoua/jiankangwuyoua.js"
+			],
+			[
+				"zhaungyuanhong.js",
+				"src/planbook/huaxiarenshou/zhuangyuanhong/zhuangyuanhong.js"
+			],
+			[
+				"jiankangbaifenbaib.js",
+				"src/planbook/taikangbaoxian/jiankangbaifenbaib/jiankangbaifenbaib.js"
+			],
+			[
+				"jiankangbaifenbaia.js",
+				"src/planbook/taikangbaoxian/jiankangbaifenbaia/jiankangbaifenbaia.js"
+			],
+			[
+				"tinypng.js",
+				"gulp/tinypng.js"
+			],
+			[
+				"jiankangwuyou.js",
+				"src/planbook/xinhuabaoxian/jiankangwuyoua/jiankangwuyoua.js"
+			],
+			[
+				"jiankangwuyou",
+				"dest/jiankangwuyoua.html"
+			],
+			[
+				"geren_z",
+				"src/planbook/renshoubaoxian/geren_zijinanquan/geren_zijinanquan.js"
+			],
+			[
+				"geren_",
+				"dest/js/geren_zijinanquan.js"
+			],
+			[
+				"caifuwenyiing.js",
+				"src/planbook/taipingbaoxian/caifuwenyiing/caifuwenyiing.js"
+			],
+			[
+				"jinseqiancheng.js",
+				"src/planbook/taipingbaoxian/jinseqiancheng/jinseqiancheng.js"
+			],
+			[
+				"deyijinjia.js",
+				"src/planbook/dehuaangu/deyijinjia/deyijinjia.js"
+			],
+			[
+				"deyijinjia",
+				"dest/js/deyijinjia.js"
+			],
+			[
+				"zhongheyiwai.js",
+				"src/planbook/taipingbaoxian/zhongheyiwai/zhongheyiwai.js"
+			],
+			[
+				"baiwanrenwoxing.js",
+				"src/planbook/zhongguopingan/baiwanrenwoxing/baiwanrenwoxing.js"
+			],
+			[
+				"aibeijia.js",
+				"src/planbook/zhongguopingan/aibeijia/aibeijia.js"
+			],
+			[
+				"shaoerpinganfu.js",
+				"src/planbook/zhongguopingan/shaoerpinganfu/shaoerpinganfu.js"
+			],
+			[
+				"parsesrvd",
+				"src/js/common/parseSrvData.js"
+			],
+			[
+				"geren_zijian",
+				"src/planbook/renshoubaoxian/geren_zijinanquan/geren_zijinanquan.js"
+			],
+			[
+				"inject.js",
+				"test/inject.json"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"wuyouka",
+				"src/planbook/taipingyang/wuyouka/wuyouka.js"
+			],
+			[
+				"wuyouka.js",
+				"src/planbook/taipingyang/wuyouka/wuyouka.js"
+			],
+			[
+				"config.js",
+				"src/demo/yiwai/config.js"
+			],
+			[
+				"_jiaoyu",
+				"金色前程/template/partials/_jiaoyu.hbs"
+			],
+			[
+				"jinseqiancheng.hbs",
+				"金色前程/jinseqiancheng.hbs"
+			],
+			[
+				"jinseqiancheng",
+				"金色前程/jinseqiancheng.hbs"
+			],
+			[
+				"package",
+				"new-planbook-result2/package.json"
+			],
+			[
+				"_jinses",
+				"new-planbook-result2/src/planbook/taipingbaoxian/jinseqiancheng/template/partials/_jinseqiancheng.hbs"
+			],
+			[
+				"shaoerpinganfu.html",
+				"new-planbook-result2/src/planbook/zhongguopingan/shaoerpinganfu/shaoerpinganfu.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sails",
+				"~/test/sublime-project/sails-test.sublime-project"
+			],
+			[
+				"chexian",
+				"~/test/work/active/src/wy_chexian_management.sublime-workspace"
+			],
+			[
+				"common",
+				"~/test/html_test_common/html_test_common.sublime-project"
+			],
+			[
+				"react",
+				"~/test/react/react_test.sublime-project"
+			],
+			[
+				"resulet2",
+				"~/work/wy_frontend/new-planbook-result2/planbook-result2.sublime-workspace"
+			],
+			[
+				"fed",
+				"~/work/fed-workflows/fed-workflows.sublime-project"
+			],
+			[
+				"fee",
+				"~/test/angularjs-test/promotion-fee-mgt.sublime-project"
+			],
+			[
+				"work",
+				"~/work/fed-workflows/fed-workflows.sublime-project"
+			],
+			[
+				"com",
+				"~/test/html_test_common/html_test_common.sublime-project"
+			],
+			[
+				"icon",
+				"~/test/svg_font/symbols-for-sketch-master/icon-sketch.sublime-project"
+			],
+			[
+				"result2",
+				"~/test/sublime-project/planboo-result2.sublime-project"
+			],
+			[
+				"group",
+				"~/test/sublime-project/planbook-form-group.sublime-project"
+			],
+			[
+				"",
+				"~/work/wy_frontend/new-planbook-result2/planbook-result2.sublime-project"
+			],
+			[
+				"video",
+				"~/work/wy_frontend/videojs_demo/wy_video_demo.sublime-project"
+			],
+			[
+				"result",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/newplanbook-result2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

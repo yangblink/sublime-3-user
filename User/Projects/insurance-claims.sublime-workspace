@@ -1,0 +1,1673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"webpack",
+				"webpackConfig"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"pag",
+				"paginationOptions"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"adjus",
+				"adjustType"
+			],
+			[
+				"ajd",
+				"adjustType"
+			],
+			[
+				"bascon",
+				"baseConfig"
+			],
+			[
+				"submit",
+				"submitUrl"
+			],
+			[
+				"userinfo",
+				"userInfo"
+			],
+			[
+				"sidenav",
+				"sidenavAccess"
+			],
+			[
+				"userfi",
+				"userInfo"
+			],
+			[
+				"showcomm",
+				"ShowCommission"
+			],
+			[
+				"promotion",
+				"promotionInfo"
+			],
+			[
+				"pagis",
+				"pageSize"
+			],
+			[
+				"bnew",
+				"bNewInfo"
+			],
+			[
+				"black",
+				"blacklist"
+			],
+			[
+				"USERI",
+				"userId"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"tag",
+				"TagStatusOperateName"
+			],
+			[
+				"atomid",
+				"atomIds"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"atomt",
+				"atomTagSelected"
+			],
+			[
+				"cat",
+				"categorySelected"
+			],
+			[
+				"leve",
+				"level1"
+			],
+			[
+				"lev",
+				"level1"
+			],
+			[
+				"level",
+				"level2"
+			],
+			[
+				"mock",
+				"mockSrv"
+			],
+			[
+				"subcat",
+				"subCategory"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"subcategor",
+				"subCategorySelected"
+			],
+			[
+				"category",
+				"categorySelected"
+			],
+			[
+				"catg",
+				"categoryList"
+			],
+			[
+				"dat",
+				"dataSvc"
+			],
+			[
+				"editor",
+				"EditorTagCtrl"
+			],
+			[
+				"pagin",
+				"pageInfo"
+			],
+			[
+				"user",
+				"USERTAG_COFNIG"
+			],
+			[
+				"communit",
+				"communityNav"
+			],
+			[
+				"isn",
+				"isNewPosts"
+			],
+			[
+				"para",
+				"param"
+			],
+			[
+				"topp",
+				"topposts"
+			],
+			[
+				"repla",
+				"replaceStr"
+			],
+			[
+				"old",
+				"oldV"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"show",
+				"show"
+			],
+			[
+				"page",
+				"pageInfo"
+			],
+			[
+				"type",
+				"typeobj"
+			],
+			[
+				"userty",
+				"userType"
+			],
+			[
+				"posti",
+				"postid"
+			],
+			[
+				"img",
+				"imgStr"
+			],
+			[
+				"item",
+				"itemStatus"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"upload",
+				"uploaderID"
+			],
+			[
+				"uplo",
+				"uploaderID"
+			],
+			[
+				"new",
+				"newUploader"
+			],
+			[
+				"post",
+				"postId"
+			],
+			[
+				"sele",
+				"selectedGood"
+			],
+			[
+				"shortcall",
+				"shortCallErr"
+			],
+			[
+				"par",
+				"param"
+			],
+			[
+				"sera",
+				"searchResult"
+			],
+			[
+				"commu",
+				"COMMUNITY_CONFIG"
+			],
+			[
+				"tabl",
+				"TABLE_LIST_CONFIG"
+			],
+			[
+				"commun",
+				"communitySvc"
+			],
+			[
+				"genter",
+				"generateServiceGroup"
+			],
+			[
+				"http",
+				"httpParamSerializerJQLike"
+			],
+			[
+				"htt",
+				"httpParamSerializerJQLike"
+			],
+			[
+				"HTTP",
+				"httpParamSerializerJQLike"
+			],
+			[
+				"popu",
+				"popup2"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"plan",
+				"planbook_dir"
+			],
+			[
+				"insur",
+				"insure1"
+			],
+			[
+				"add",
+				"add1"
+			],
+			[
+				"zhuyuand",
+				"zhuyuanDailybaoe"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"baoe",
+				"baoe2"
+			],
+			[
+				"setba",
+				"setbaoe2"
+			],
+			[
+				"setb",
+				"setbaoe1"
+			],
+			[
+				"util",
+				"utileData"
+			],
+			[
+				"insure",
+				"insurance"
+			],
+			[
+				"ini",
+				"initData"
+			],
+			[
+				"vide",
+				"videojs_onload"
+			],
+			[
+				"video",
+				"video_attr"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"preset",
+				"preset_videojs"
+			],
+			[
+				"pres",
+				"preset_videojs"
+			],
+			[
+				"showord",
+				"showOrderHas"
+			],
+			[
+				"showro",
+				"showOrderHas"
+			],
+			[
+				"showor",
+				"showOrderRemain"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"time",
+				"times"
+			],
+			[
+				"ti",
+				"times"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"requ",
+				"require_wo_cache"
+			],
+			[
+				"req",
+				"require_wo_cache"
+			],
+			[
+				"requi",
+				"require_wo_cache"
+			],
+			[
+				"main",
+				"mainInfo"
+			],
+			[
+				"ren",
+				"rename"
+			],
+			[
+				"java",
+				"java_js_dir"
+			],
+			[
+				"in",
+				"insureAll"
+			],
+			[
+				"insu",
+				"insureAll"
+			],
+			[
+				"ine",
+				"inject_json"
+			],
+			[
+				"key",
+				"key_js"
+			],
+			[
+				"tpl",
+				"tplData"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"les",
+				"less"
+			],
+			[
+				"inj",
+				"inject_json"
+			],
+			[
+				"less",
+				"less_str"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/yangblink/work/insurance-claims/build/webpack.dev.conf.js",
+			"settings":
+			{
+				"buffer_size": 1530,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/work/insurance-claims/build/new-page.js",
+			"settings":
+			{
+				"buffer_size": 2619,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/work/insurance-claims/build/dev-server.js",
+			"settings":
+			{
+				"buffer_size": 1830,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/work/insurance-claims/build/webpack.common.conf.js",
+			"settings":
+			{
+				"buffer_size": 1813,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/work/insurance-claims/build/utils.js",
+			"settings":
+			{
+				"buffer_size": 835,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/work/insurance-claims/build/config.js",
+			"settings":
+			{
+				"buffer_size": 772,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/work/insurance-claims/src/pages/home/index.js",
+			"settings":
+			{
+				"buffer_size": 176,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 291.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"themem",
+				"Material Theme: Activate theme"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"HTTP",
+				"HTMLPrettify"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"HT",
+				"HTMLPrettify"
+			],
+			[
+				"jsong",
+				"Preferences: Pretty JSON Settings - User"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"htt",
+				"HTMLPrettify"
+			],
+			[
+				"http",
+				"HTMLPrettify"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"syntax: json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"httppre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"prettiy ",
+				"HTMLPrettify"
+			],
+			[
+				"set syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ope",
+				"Terminal: Open"
+			],
+			[
+				"jsonf",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"openresou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"op",
+				"Terminal: Open"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"handleb",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 313.0,
+		"history":
+		[
+			"sublime.log_command(True)",
+			"Lorem",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yangblink/work/insurance-claims",
+		"/Users/yangblink/work/insurance-claims/src",
+		"/Users/yangblink/work/insurance-claims/src/pages"
+	],
+	"file_history":
+	[
+		"/Users/yangblink/work/insurance-claims/package.json",
+		"/Users/yangblink/work/insurance-claims/build/utils.js",
+		"/Users/yangblink/work/insurance-claims/build/config.js",
+		"/Users/yangblink/work/insurance-claims/src/public/js/base-config.js",
+		"/Users/yangblink/work/insurance-claims/src/public/js/modal.js",
+		"/Users/yangblink/work/insurance-claims/README.md",
+		"/Users/yangblink/work/insurance-claims/webpack.config.js",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/app/components/about/about.html",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/app/components/uitree/about.controller.js",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/app/components/uitree/about.html",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/app/components/uitree/about.js",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/my.test.js",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/node_modules/list-to-tree/dist/list-to-tree.js",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/node_modules/list-to-tree/package.json",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/app/components/components.js",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/app/app.js",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/app/app.scss",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/index.html",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/app/components/uitree/about.scss",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/app/components/home/home.js",
+		"/Users/yangblink/test/angularjs-test/NG6-starter/client/app/common/navbar/navbar.html",
+		"/Users/yangblink/work/management-operations/gulpfile.js",
+		"/Users/yangblink/work/management-operations/client/index_raw.html",
+		"/Users/yangblink/work/management-operations/client/index.html",
+		"/Users/yangblink/work/management-operations/client/src/app/category/articelTags/articelTags.tpl.html",
+		"/Users/yangblink/work/management-operations/client/src/app/app.js",
+		"/Users/yangblink/work/management-operations/client/src/app/community/community.js",
+		"/Users/yangblink/work/management-operations/client/src/app/community/community.new.comment.tpl.html",
+		"/Users/yangblink/work/management-operations/client/src/app/community/community.tpl.html",
+		"/Users/yangblink/work/management-operations/client/src/app/management.tpl.html",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/User/Projects/management-operations.sublime-project",
+		"/Users/yangblink/work/management-operations/.gitignore",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/ProjectManager/project_manager.sublime-settings",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/User/project_manager.sublime-settings",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/manager/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/app.json",
+		"/Users/yangblink/work/weapp-bxs-insure/component/quantity/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/index/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/insureProgress/insureProgress.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/makePlan/makePlan.js",
+		"/Users/yangblink/work/weapp-bxs-insure/component/quantity/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/component/quantity/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/insureProgress/insureProgress.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/makePlan/makePlan.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/manager/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/common/managerlist/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/common/managerlist/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/me/me.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/app.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/policy/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/me/me.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/common/tempPage/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/common/tempPage/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/policy/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/getInsure/getInsure.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/insureProgress/insureProgress.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/me/me.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/getInsure/getInsure.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/manager/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/index/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/policy/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/managerList/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/component/cell/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/getInsure/getInsure.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/index/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/makePlan/makePlan.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/managerList/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/managerList/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/component/quantity/quantity.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/component/quantity/quantity.wxss",
+		"/Users/yangblink/Downloads/demo/page/API/pages/modal/modal.js",
+		"/Users/yangblink/Downloads/demo/page/component/index.js",
+		"/Users/yangblink/Downloads/demo/page/component/pages/progress/progress.js",
+		"/Users/yangblink/Downloads/demo/page/component/pages/progress/progress.json",
+		"/Users/yangblink/Downloads/demo/page/component/pages/progress/progress.wxml",
+		"/Users/yangblink/Downloads/demo/page/component/pages/button/button.wxml",
+		"/Users/yangblink/Downloads/demo/page/component/pages/navigator/navigator.wxml",
+		"/Users/yangblink/Downloads/demo/page/component/pages/navigator/navigator.js",
+		"/Users/yangblink/Downloads/demo/page/component/pages/button/button.wxss",
+		"/Users/yangblink/Downloads/demo/page/component/pages/navigator/navigator.wxss",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/yangblink/work/wy_bill_management/client/index_raw.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/data-adjust.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/index.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/common/services/data-service.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/commission.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/insure_settle/insure-settle.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/differentFile-modal.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/common/interceptors/httpInterceptor.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/data-adjust.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/financial-adjust.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/scss/modules/_modal-loading.scss",
+		"/Users/yangblink/work/wy_bill_management/client/src/scss/main.scss",
+		"/Users/yangblink/work/wy_bill_management/client/src/scss/layouts/_page.scss",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/filters/toll-filter.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/common/services/user-info.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/financial-adjust.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/insure_settle/insure-settle.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/node_modules/browser-sync-ui/public/js/app.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/adjust-import-file.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/memo.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/app.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/filters/ruzhang-filter.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/adjust-import-file-modal.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/build/build.config.js",
+		"/Users/yangblink/work/wy_bill_management/build/index_raw.html",
+		"/Users/yangblink/work/wy_bill_management/gulpfile.js",
+		"/Users/yangblink/work/wy_bill_management/build/index_backup.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/insure_settle/order-detail-modal.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/insure_settle/order-detail.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/accounts/accounts.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/paycompare/paycompare.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/paycompare/all-pay-list.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/paycompare/all-pay-list.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/common/sidenav/sidenav.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/scss/modules/_sidenav.scss",
+		"/Users/yangblink/work/wy_bill_management/client/src/common/sidenav/sidenav.js",
+		"/Users/yangblink/work/wy_bill_management/build/proxy-middleware.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/common/header.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/common/header.js.orig",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/chakan.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/memo-modal.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/caiwushenhe.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/caiwutijiao.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/shujutijiao.tpl.html",
+		"/Users/yangblink/work/wy_bill_management/client/src/common/directives/access-control-directive.js",
+		"/Users/yangblink/work/wy_bill_management/client/src/app/commission/popularize/undo-import-file-modal.tpl.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			"<project>",
+			"<open files>,<open folders>",
+			"<open files>",
+			"/Users/yangblink/test/work/active/node_modules/bootstrap/less",
+			"/Users/yangblink/work/wy_frontend/new-planbook-result2/node_modules/video.js/dist",
+			"/Users/yangblink/work/wy_frontend/new-planbook-result2/src/planbook",
+			"/Users/yangblink/work/wy_frontend/new-planbook-result2/src/less/plan",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"index",
+			"HtmlWebpackPlugin",
+			"templates",
+			"notVendor",
+			"serverRequest",
+			"source",
+			"serve",
+			"reversedInterceptors",
+			"interceptors",
+			"nodes_renderer1",
+			"model",
+			"$scope",
+			".angular-ui-tree-handle",
+			"sublime-project",
+			"security",
+			"title",
+			"header",
+			"cards",
+			"inset",
+			"card",
+			"redirectTo",
+			"test1",
+			"——",
+			"：",
+			"）",
+			"（",
+			"getTags",
+			"ageQuantity",
+			",",
+			"scale",
+			"slider-group",
+			"slider-num",
+			"slider-laber",
+			"slider-group",
+			"start",
+			"swiper-item-plan",
+			"swiper-item",
+			"100px",
+			"iamge",
+			"bg",
+			"pageSize",
+			"shuju",
+			"pageNum",
+			"ServerRequest",
+			"shoukuan",
+			"paginationOptions",
+			"accountAdjust",
+			"resetPage",
+			"accountAdjust/audit/result/update",
+			"resultUpdate",
+			"AccountTypeFilter",
+			"hasStatus",
+			"getBookedType",
+			"BookedTypeFilter",
+			"AccountTypeFilter",
+			"FileTypeFilter",
+			"ImportAdjustFileCtrl",
+			"getBookedType",
+			"accountAdjustAuditResultUpdate",
+			"accountAdjust/audit/result/update",
+			"accountAdjust/review/result/update",
+			"TollService",
+			"static",
+			"AccountsCtrl",
+			"OrderDetailModalCtrl",
+			"DataServiceOrders",
+			"OrderDetailModalCtrl",
+			"DataServiceOrders",
+			"show",
+			"differentFileCtrl",
+			"itm.id",
+			"authCheckHeader",
+			"ChaKanBouncedCtrl",
+			"bohui.tpl.html",
+			"hohui.tpl.html",
+			"ChaKanjiluBouncedCtrl",
+			"showChaKanAdjust",
+			"accountAdjust/common/operationRecord/list",
+			"CaiWuTJBouncedCtrl",
+			"ShuJuTJBouncedCtrl",
+			"UndoImportFile",
+			"accountAdjust/review/result/update",
+			"accountAdjustApplytoReviewUpdate",
+			"accountAdjustApplytoReviewUpdate\\",
+			"accountAdjustApplytoReviewUpdate",
+			"accountAdjust/review/result/update",
+			"id",
+			"resolve",
+			"/accountAdjust/apply/delete",
+			"CaiWuBouncedCtrl",
+			"tijiao",
+			"CaiWuBouncedCtrl",
+			"href",
+			"caiwutk",
+			"accountAdjustApplytoReviewUpdate",
+			"undo",
+			"UndoImportFile",
+			"ShuJuListCtrl",
+			"importAdjustFile",
+			"itemArray",
+			"statusCode",
+			"TollService",
+			"adjuestApply",
+			"adjustRequest",
+			"dataadjust",
+			"enlargeImage",
+			"driverForm",
+			"imageViewerCfgs",
+			"accountAdjust",
+			"gulp-ng-annotate",
+			"outDate",
+			"showBaofAdjust",
+			"outDate1",
+			"chukuanlist",
+			"clickItem",
+			"companiesList",
+			"getCompanyList",
+			"formatAccess",
+			"premiumAdjust",
+			"export",
+			"exportInsureOutAuditList",
+			"exportInsureOutAudit",
+			"premiumOut",
+			"premiumAdjust",
+			"param",
+			"exportPremiumAdjustList",
+			"getPremiumAdjustList",
+			"getPremiumAdjustById\n\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"accessHeader",
+			"whiteinfo",
+			"whitelistCtrl",
+			"blacklistCtrl",
+			"userTag",
+			"commentsCtrl",
+			"postsCtrl",
+			"showProp",
+			"nav1",
+			"all",
+			"元",
+			"XH508",
+			"XH507",
+			"dd",
+			"sj3",
+			"sj2",
+			"sj3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/yangblink/work/insurance-claims/build/webpack.dev.conf.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1446,
+								1446
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/yangblink/work/insurance-claims/build/new-page.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/yangblink/work/insurance-claims/build/dev-server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/yangblink/work/insurance-claims/build/webpack.common.conf.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								509
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/yangblink/work/insurance-claims/build/utils.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/yangblink/work/insurance-claims/build/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/yangblink/work/insurance-claims/src/pages/home/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "insurance-claims.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"my.te",
+				"my.test.js"
+			],
+			[
+				".gitign",
+				".gitignore"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"data-s",
+				"client/src/common/services/data-service.js"
+			],
+			[
+				"pro",
+				"build/proxy-middleware.js"
+			],
+			[
+				"tips.js",
+				"client/src/app/tips/tips.js"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"app.js",
+				"express/app/app.js"
+			],
+			[
+				"jquery.js",
+				"dest/js/jquery.js"
+			],
+			[
+				"jiankangyijiayi.js",
+				"src/planbook/taikangbaoxian/jiankangyijiayi/jiankangyijiayi.js"
+			],
+			[
+				"video.js",
+				"node_modules/video.js/dist/video.js"
+			],
+			[
+				"aijiayanglao.js",
+				"src/planbook/taikangrenshou/aijiayanglao/aijiayanglao.js"
+			],
+			[
+				"test.js",
+				"express/app/test.js"
+			],
+			[
+				"yanglao",
+				"src/planbook/taikangrenshou/aijiayanglao/aijiayanglao.js"
+			],
+			[
+				"longxingle",
+				"src/planbook/jianxinrenshou/jianxin_longxingle/jianxin_longxingle.js"
+			],
+			[
+				"jiankangyisheng.js",
+				"src/planbook/renshoubaoxian/jiankangyisheng/jiankangyisheng.js"
+			],
+			[
+				"zhuangyuanhong.js",
+				"src/planbook/huaxiarenshou/huaxia_zhuangyuanhong/huaxia_zhuangyuanhong.js"
+			],
+			[
+				"jiankangwuyoua.js",
+				"src/planbook/xinhuabaoxian/jiankangwuyoua/jiankangwuyoua.js"
+			],
+			[
+				"zhaungyuanhong.js",
+				"src/planbook/huaxiarenshou/zhuangyuanhong/zhuangyuanhong.js"
+			],
+			[
+				"jiankangbaifenbaib.js",
+				"src/planbook/taikangbaoxian/jiankangbaifenbaib/jiankangbaifenbaib.js"
+			],
+			[
+				"jiankangbaifenbaia.js",
+				"src/planbook/taikangbaoxian/jiankangbaifenbaia/jiankangbaifenbaia.js"
+			],
+			[
+				"tinypng.js",
+				"gulp/tinypng.js"
+			],
+			[
+				"jiankangwuyou.js",
+				"src/planbook/xinhuabaoxian/jiankangwuyoua/jiankangwuyoua.js"
+			],
+			[
+				"jiankangwuyou",
+				"dest/jiankangwuyoua.html"
+			],
+			[
+				"geren_z",
+				"src/planbook/renshoubaoxian/geren_zijinanquan/geren_zijinanquan.js"
+			],
+			[
+				"geren_",
+				"dest/js/geren_zijinanquan.js"
+			],
+			[
+				"caifuwenyiing.js",
+				"src/planbook/taipingbaoxian/caifuwenyiing/caifuwenyiing.js"
+			],
+			[
+				"jinseqiancheng.js",
+				"src/planbook/taipingbaoxian/jinseqiancheng/jinseqiancheng.js"
+			],
+			[
+				"deyijinjia.js",
+				"src/planbook/dehuaangu/deyijinjia/deyijinjia.js"
+			],
+			[
+				"deyijinjia",
+				"dest/js/deyijinjia.js"
+			],
+			[
+				"zhongheyiwai.js",
+				"src/planbook/taipingbaoxian/zhongheyiwai/zhongheyiwai.js"
+			],
+			[
+				"baiwanrenwoxing.js",
+				"src/planbook/zhongguopingan/baiwanrenwoxing/baiwanrenwoxing.js"
+			],
+			[
+				"aibeijia.js",
+				"src/planbook/zhongguopingan/aibeijia/aibeijia.js"
+			],
+			[
+				"shaoerpinganfu.js",
+				"src/planbook/zhongguopingan/shaoerpinganfu/shaoerpinganfu.js"
+			],
+			[
+				"parsesrvd",
+				"src/js/common/parseSrvData.js"
+			],
+			[
+				"geren_zijian",
+				"src/planbook/renshoubaoxian/geren_zijinanquan/geren_zijinanquan.js"
+			],
+			[
+				"inject.js",
+				"test/inject.json"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"wuyouka",
+				"src/planbook/taipingyang/wuyouka/wuyouka.js"
+			],
+			[
+				"wuyouka.js",
+				"src/planbook/taipingyang/wuyouka/wuyouka.js"
+			],
+			[
+				"config.js",
+				"src/demo/yiwai/config.js"
+			],
+			[
+				"_jiaoyu",
+				"金色前程/template/partials/_jiaoyu.hbs"
+			],
+			[
+				"jinseqiancheng.hbs",
+				"金色前程/jinseqiancheng.hbs"
+			],
+			[
+				"jinseqiancheng",
+				"金色前程/jinseqiancheng.hbs"
+			],
+			[
+				"package",
+				"new-planbook-result2/package.json"
+			],
+			[
+				"_jinses",
+				"new-planbook-result2/src/planbook/taipingbaoxian/jinseqiancheng/template/partials/_jinseqiancheng.hbs"
+			],
+			[
+				"shaoerpinganfu.html",
+				"new-planbook-result2/src/planbook/zhongguopingan/shaoerpinganfu/shaoerpinganfu.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sails",
+				"~/test/sublime-project/sails-test.sublime-project"
+			],
+			[
+				"chexian",
+				"~/test/work/active/src/wy_chexian_management.sublime-workspace"
+			],
+			[
+				"common",
+				"~/test/html_test_common/html_test_common.sublime-project"
+			],
+			[
+				"react",
+				"~/test/react/react_test.sublime-project"
+			],
+			[
+				"resulet2",
+				"~/work/wy_frontend/new-planbook-result2/planbook-result2.sublime-workspace"
+			],
+			[
+				"fed",
+				"~/work/fed-workflows/fed-workflows.sublime-project"
+			],
+			[
+				"fee",
+				"~/test/angularjs-test/promotion-fee-mgt.sublime-project"
+			],
+			[
+				"work",
+				"~/work/fed-workflows/fed-workflows.sublime-project"
+			],
+			[
+				"com",
+				"~/test/html_test_common/html_test_common.sublime-project"
+			],
+			[
+				"icon",
+				"~/test/svg_font/symbols-for-sketch-master/icon-sketch.sublime-project"
+			],
+			[
+				"result2",
+				"~/test/sublime-project/planboo-result2.sublime-project"
+			],
+			[
+				"group",
+				"~/test/sublime-project/planbook-form-group.sublime-project"
+			],
+			[
+				"",
+				"~/work/wy_frontend/new-planbook-result2/planbook-result2.sublime-project"
+			],
+			[
+				"video",
+				"~/work/wy_frontend/videojs_demo/wy_video_demo.sublime-project"
+			],
+			[
+				"result",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/newplanbook-result2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

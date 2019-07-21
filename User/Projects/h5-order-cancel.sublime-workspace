@@ -1,0 +1,1594 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fac",
+				"facePlusAuth"
+			],
+			[
+				"idcardnu",
+				"id_card_number"
+			],
+			[
+				"idc",
+				"idcardNumber"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"ti",
+				"timer"
+			],
+			[
+				"bac",
+				"backFacuAuth"
+			],
+			[
+				"cooki",
+				"cookies"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"hodl",
+				"holderCardValue"
+			],
+			[
+				"toas",
+				"ToastError"
+			],
+			[
+				"fet",
+				"fetch_raw"
+			],
+			[
+				"getstat",
+				"getStatusHandler"
+			],
+			[
+				"poli",
+				"policyUuid"
+			],
+			[
+				"loading",
+				"loadingTime"
+			],
+			[
+				"refur",
+				"refundOrder"
+			],
+			[
+				"idr",
+				"idCardBack"
+			],
+			[
+				"face",
+				"faceData"
+			],
+			[
+				"succe",
+				"SUCCESS"
+			],
+			[
+				"reusl",
+				"resultStatus"
+			],
+			[
+				"resul",
+				"resultStatus"
+			],
+			[
+				"background",
+				"backgroundColor"
+			],
+			[
+				"text",
+				"text-top"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"uplo",
+				"uploadImage"
+			],
+			[
+				"ini",
+				"initUpload"
+			],
+			[
+				"pop-se",
+				"pop-section_content"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"righ",
+				"right-bottom-corner"
+			],
+			[
+				"not",
+				"no-repeat"
+			],
+			[
+				"resti",
+				"restTime"
+			],
+			[
+				"idcar",
+				"idCardFront"
+			],
+			[
+				"cat",
+				"captcha"
+			],
+			[
+				"refu",
+				"refundReason"
+			],
+			[
+				"rea",
+				"reason"
+			],
+			[
+				"reas",
+				"reasons"
+			],
+			[
+				"data",
+				"dateformat"
+			],
+			[
+				"dat",
+				"dateformat"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"picker",
+				"Picker"
+			],
+			[
+				"rest",
+				"restTime"
+			],
+			[
+				"restti",
+				"restTime"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wati",
+				"waitingTime"
+			],
+			[
+				"waiti",
+				"waitingTime"
+			],
+			[
+				"upl",
+				"upload-header"
+			],
+			[
+				"compon",
+				"components"
+			],
+			[
+				"base",
+				"base-header_right"
+			],
+			[
+				"ord",
+				"orderHeader"
+			],
+			[
+				"con",
+				"conservationUuid"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"leve",
+				"levelFn"
+			],
+			[
+				"ena",
+				"enable"
+			],
+			[
+				"cash",
+				"cashArea"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"en",
+				"enable"
+			],
+			[
+				"dore",
+				"doRewardDetail"
+			],
+			[
+				"mem",
+				"memberWeekly"
+			],
+			[
+				"activ",
+				"activityTip"
+			],
+			[
+				"acti",
+				"activityTip"
+			],
+			[
+				"ac",
+				"activityTip"
+			],
+			[
+				"bas",
+				"baseFaq"
+			],
+			[
+				"qu",
+				"question_uuid"
+			],
+			[
+				"rul",
+				"ruleAddr"
+			],
+			[
+				"redba",
+				"redBagArea"
+			],
+			[
+				"goto",
+				"gotoUrl"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"uit",
+				"utils"
+			],
+			[
+				"quest",
+				"questions"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"vip-fun",
+				"vip-function-oneline"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"spac",
+				"space-around"
+			],
+			[
+				"vip-rew",
+				"vip-reward-panel"
+			],
+			[
+				"prog",
+				"progressColor"
+			],
+			[
+				"poin",
+				"point_y"
+			],
+			[
+				"proger",
+				"progressColor"
+			],
+			[
+				"lin",
+				"lineWidth"
+			],
+			[
+				"progre",
+				"progress_index"
+			],
+			[
+				"car",
+				"card_border"
+			],
+			[
+				"bann",
+				"bannerJson"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"Swip",
+				"SwipeItem"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"par",
+				"parseTime"
+			],
+			[
+				"po",
+				"policy"
+			],
+			[
+				"statu",
+				"status"
+			],
+			[
+				"check",
+				"checkWithdrawStatus"
+			],
+			[
+				"lay",
+				"Layout"
+			],
+			[
+				"ip",
+				"import"
+			],
+			[
+				"cla",
+				"callback"
+			],
+			[
+				"ng",
+				"ngctrl\tangular.js"
+			],
+			[
+				"store",
+				"hasGemStore"
+			],
+			[
+				"audio",
+				"audioSrc"
+			],
+			[
+				"voic",
+				"voiceUrl"
+			],
+			[
+				"emit",
+				"emitObj"
+			],
+			[
+				"imag",
+				"imageUrl"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"cart",
+				"cardType"
+			],
+			[
+				"ana",
+				"analy_id"
+			],
+			[
+				"anal",
+				"analy_id"
+			],
+			[
+				"ca",
+				"case"
+			],
+			[
+				"del",
+				"delay"
+			],
+			[
+				"nextan",
+				"nextAnimateDelay"
+			],
+			[
+				"animate",
+				"animate-planup"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"trans",
+				"translate3d"
+			],
+			[
+				"anit",
+				"animate-planup"
+			],
+			[
+				"plan",
+				"plantClass"
+			],
+			[
+				"shar",
+				"shareInfo"
+			],
+			[
+				"card",
+				"cardData"
+			],
+			[
+				"cardstat",
+				"cardStatusIcon"
+			],
+			[
+				"js",
+				"jsonData"
+			],
+			[
+				"c",
+				"ct\tconsole.trace"
+			],
+			[
+				"gotona",
+				"gotoNative"
+			],
+			[
+				"upda",
+				"updateQueryStringParameter"
+			],
+			[
+				"communi",
+				"communityMyCenter"
+			],
+			[
+				"poster",
+				"posterUrl"
+			],
+			[
+				"tempa",
+				"templateImg"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"audi",
+				"audioInfo"
+			],
+			[
+				"voi",
+				"voiceUrl"
+			],
+			[
+				"name",
+				"name1"
+			],
+			[
+				"greeti",
+				"greetingIdx"
+			],
+			[
+				"perce",
+				"percent"
+			],
+			[
+				"percent",
+				"percentStr"
+			],
+			[
+				"NODe",
+				"NODE_ENV_WY"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/order-cancel.vue",
+			"settings":
+			{
+				"buffer_size": 6033,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/work/h5-order-cancel/src/pages/confirm-info/confirm-info.vue",
+			"settings":
+			{
+				"buffer_size": 3621,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/work/h5-order-cancel/src/pages/face-auth-result/face-auth-result.vue",
+			"settings":
+			{
+				"buffer_size": 6052,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"j song",
+				"Preferences: Pretty JSON Settings - User"
+			],
+			[
+				"themem",
+				"Material Theme: Activate theme"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"add new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"http",
+				"HTMLPrettify"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syt css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax",
+				"Set Syntax: JSON"
+			],
+			[
+				"HTTP",
+				"HTMLPrettify"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"HT",
+				"HTMLPrettify"
+			],
+			[
+				"jsong",
+				"Preferences: Pretty JSON Settings - User"
+			],
+			[
+				"htt",
+				"HTMLPrettify"
+			],
+			[
+				"syntax: json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"httppre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"prettiy ",
+				"HTMLPrettify"
+			],
+			[
+				"set syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ope",
+				"Terminal: Open"
+			],
+			[
+				"jsonf",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"openresou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"op",
+				"Terminal: Open"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"handleb",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 313.0,
+		"history":
+		[
+			"sublime.log_command(True)",
+			"Lorem",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yangblink/work/h5-order-cancel",
+		"/Users/yangblink/work/h5-order-cancel/config",
+		"/Users/yangblink/work/h5-order-cancel/src",
+		"/Users/yangblink/work/h5-order-cancel/src/api",
+		"/Users/yangblink/work/h5-order-cancel/src/pages",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/confirm-info",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-auth-result",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel",
+		"/Users/yangblink/work/h5-order-cancel/src/utils"
+	],
+	"file_history":
+	[
+		"/Users/yangblink/work/h5-order-cancel/config/index.js",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/env.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/mobile-change-result/mobile-change-result.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/order-cancel.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/utils.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-appeal/refund-appeal.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-appeal/components/pop-signature.vue",
+		"/Users/yangblink/work/h5-order-cancel/config/dev.env.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/order-cancel.html",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-result/refund-result.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/api/face.js",
+		"/Users/yangblink/work/h5-order-cancel/src/api/refund.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-auth-result/face-auth-result.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/confirm-info/confirm-info.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-auth-result/face-auth-result.html",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/components/pop-reason.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/confirm-info/components/list.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/components/baseInfo.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/api.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel-details/order-cancel-details.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel-details/detailsTitle.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/components/w-next/w-next.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-plus-auth/face-plus-auth.vue",
+		"/Users/yangblink/work/h5-order-cancel/package.json",
+		"/Users/yangblink/work/h5-order-cancel/.gitattributes",
+		"/Users/yangblink/work/h5-order-cancel/build/webpack.prod.conf.js",
+		"/Users/yangblink/work/h5-order-cancel/build/utils.js",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/request/face.js",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/request/refund.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/components/upload.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/components/message.vue",
+		"/private/etc/hosts",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/confirm-info/confirm-info.html",
+		"/Users/yangblink/work/h5-order-cancel/gulpfile.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/confirm-info/confirm-info.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/order-cancel.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/components/header.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-appeal/components/pop-case.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/components/reason.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/components/amount.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-plus-auth/components/VertifyLoading.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-plus-auth/face-plus-auth.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-plus-auth/face-plus-auth.html",
+		"/Users/yangblink/work/h5-order-cancel/.postcssrc.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-plus-auth/face-plus-auth.scss",
+		"/Users/yangblink/work/h5-order-cancel/package-lock.json",
+		"/Users/yangblink/work/h5-order-cancel/README.md",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-appeal/refund-appeal.html",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/order-cancel.scss",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/mobile-change-apply/mobile-change-apply.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-result/refund-result.js",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/fetch.js",
+		"/Users/yangblink/work/h5-order-cancel/src/mixin/oss.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-auth-result/face-auth-result.scss",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/confirm-info/other/list.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-result/README.md",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/partial/baseInfo.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/validate.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/partial/upload.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-auth-result/face-auth-result.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel-details/order-cancel-details.html",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/partial/message.vue",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-appeal/components/upload-image.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-recognition/face-recognition.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/style/pop.scss",
+		"/Users/yangblink/work/h5-order-cancel/build/build.js",
+		"/Users/yangblink/work/h5-order-cancel/build/webpack.base.conf.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-appeal/refund-appeal.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-result/refund-result.scss",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-result/refund-result.html",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel-details/detailsContent.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-repeat/refund-repeat.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/components/uploader.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/face-recognition/face-recognition.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/record/record.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-repeat/components/pop-signature.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-repeat/components/upload-image.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-repeat/refund-repeat.scss",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-repeat/components/pop-case.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/Signature.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/record/record.scss",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/partial/pop-case.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/refund-repeat/refund-repeat.html",
+		"/Users/yangblink/work/h5-order-cancel/src/components/w-popup/w-popup.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/record/components/pop-shooting-notice.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/components/w-popup/w-popup.scss",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/record/record.html",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/record/components/shooting-notice.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/confirm-info/confirm-info.scss",
+		"/Users/yangblink/work/h5-order-cancel/.gitignore",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/partial/pop-reason.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/bxs-ui/utils.js",
+		"/Users/yangblink/work/h5-order-cancel/src/components/w-input/w-input.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/partial/header.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/partial/reason.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/mixin/popup/index.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/test/test.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/test/test.js",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/clickoutside.js",
+		"/Users/yangblink/.zshrc",
+		"/Users/yangblink/.npm/_logs/2017-12-15T01_59_50_614Z-debug.log",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/partial/pop-statement.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/bxs-ui/extends.js",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/bxs-ui/eventBus.js",
+		"/Users/yangblink/work/h5-order-cancel/.gitlab-ci.yml",
+		"/Users/yangblink/.ssh/config",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/partial/amount.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/utils/oss.js",
+		"/Users/yangblink/work/h5-order-cancel/src/mixin/sign/Signature.js",
+		"/Users/yangblink/work/h5-order-cancel/src/components/w-upload/w-upload.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/picker/picker.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/picker/picker.html",
+		"/Users/yangblink/work/h5-order-cancel/src/components/w-picker/w-picker.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/components/w-next/w-next.scss",
+		"/Users/yangblink/work/h5-order-cancel/static/flexible.js",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/baseInfo.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/upload.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/header.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/amount.vue",
+		"/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/reason.vue",
+		"/Users/yangblink/work/app-vip/src/components/vip-weekly/vip-weekly.vue",
+		"/Users/yangblink/work/app-vip/src/components/vip-reward/vip-reward.vue",
+		"/Users/yangblink/work/app-vip/src/components/vip-card/vip-card.vue",
+		"/Users/yangblink/work/app-vip/src/components/vip-reward-panel/vip-reward-panel.vue",
+		"/Users/yangblink/work/app-vip/src/components/vip-rule/vip-rule.vue",
+		"/Users/yangblink/work/app-vip/src/components/vip-function-oneline/vip-function-oneline.vue",
+		"/Users/yangblink/work/app-vip/src/pages/test/test.vue"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			"-*/node_modules/*, -*/dist/*",
+			"-*/node_modules/*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"facePlusAuth",
+			"domain",
+			"faceAuthFail",
+			"getUrlWithCurrentParament",
+			"SubmitInfo",
+			"btnDisabled",
+			"showPop",
+			"\\",
+			"WeiyiStatSDK",
+			"valided",
+			"type",
+			"appeal",
+			"next",
+			"validedData",
+			"valided",
+			"insurance",
+			"submitData",
+			"status",
+			"resultStatus",
+			"result",
+			"resultStatus",
+			"PENDING",
+			"loadingTime",
+			"intervalTime",
+			"submitData",
+			"Toast",
+			"submitData",
+			"refundOrder",
+			"submitData",
+			"SubmitInfo",
+			"throttle",
+			"holderName",
+			"holderCardValue",
+			"submitData",
+			"e",
+			"submitData",
+			"intervalTime",
+			"timer",
+			"setInterval",
+			"getStatus",
+			"intervalTime",
+			"removeStorageKey",
+			"orderData",
+			"resData",
+			"orderStorageKey",
+			"srvInfo",
+			"statementList",
+			"resData",
+			"orderStorageKey",
+			"debugger",
+			"orderData",
+			"orderStorageKey",
+			"debugger",
+			"orderStorageKey",
+			"orderData",
+			"\\",
+			"orderData",
+			"SubmitInfo",
+			"loadingTime",
+			"gotoResult",
+			"href",
+			"location",
+			"gotoAppeal",
+			"refundOrder",
+			"uuid",
+			"WeiyiStatSDK",
+			"setStorageKey",
+			"gotoResult",
+			"details",
+			"getStatus",
+			"refundOrder",
+			"submitData",
+			"getParameterByName",
+			"getUrlWithCurrentParament",
+			"jump",
+			"gotoResult",
+			"getStatus",
+			"gotoResult",
+			"submitData",
+			"gotoResult",
+			"faceAuthSuccess",
+			"pi.winbaoxian.c",
+			"faceAuthSuccess",
+			"faceDataStorageKey",
+			"setStorageKey",
+			"faceDataStorageKey",
+			"Toast",
+			"backFacuAuth",
+			"faceDataStorageKey",
+			"backFacuAuth",
+			"faceDataStorageKey",
+			"face-plus-auth",
+			"backFacuAuth",
+			"getStatus",
+			"getStatusHandler",
+			"throttle",
+			"facePlusAuth",
+			"face-plus-auth",
+			"localforage",
+			"getLocalData",
+			"get",
+			"failText",
+			"faceData",
+			"validErrorDesc",
+			"getLocalData",
+			"p",
+			"parse",
+			"getLocalData",
+			"prevData",
+			"localforageConfig",
+			"localforage",
+			"getLocalData",
+			"intervalTime",
+			"SubmitInfo",
+			"submitData",
+			"faceData",
+			"faceResultStorageKey",
+			"setImg",
+			"validedData",
+			"setCaptcha",
+			"setImg",
+			"setRefundReason",
+			"valided",
+			"setStorageKey",
+			"orderInfo",
+			"getStorageKey",
+			"saveToStorage",
+			"orderStorageKey"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"idCardBackNotHandheld",
+			"idCardFrontNotHandheld",
+			"<"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/yangblink/work/h5-order-cancel/src/pages/order-cancel/order-cancel.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								828,
+								828
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/yangblink/work/h5-order-cancel/src/pages/confirm-info/confirm-info.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3621,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										2673,
+										2685
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								3121,
+								3133
+							]
+						],
+						"settings":
+						{
+							"SL.714.region_keys":
+							[
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1933.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/yangblink/work/h5-order-cancel/src/pages/face-auth-result/face-auth-result.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 4245.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "h5-order-cancel.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"upload",
+				"src/pages/order-cancel/upload.vue"
+			],
+			[
+				"baseinfo",
+				"src/pages/order-cancel/baseInfo.vue"
+			],
+			[
+				"card-quor",
+				"src/common/card-quora/card-quora.vue"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"my.te",
+				"my.test.js"
+			],
+			[
+				".gitign",
+				".gitignore"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"data-s",
+				"client/src/common/services/data-service.js"
+			],
+			[
+				"pro",
+				"build/proxy-middleware.js"
+			],
+			[
+				"tips.js",
+				"client/src/app/tips/tips.js"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"app.js",
+				"express/app/app.js"
+			],
+			[
+				"jquery.js",
+				"dest/js/jquery.js"
+			],
+			[
+				"jiankangyijiayi.js",
+				"src/planbook/taikangbaoxian/jiankangyijiayi/jiankangyijiayi.js"
+			],
+			[
+				"video.js",
+				"node_modules/video.js/dist/video.js"
+			],
+			[
+				"aijiayanglao.js",
+				"src/planbook/taikangrenshou/aijiayanglao/aijiayanglao.js"
+			],
+			[
+				"test.js",
+				"express/app/test.js"
+			],
+			[
+				"yanglao",
+				"src/planbook/taikangrenshou/aijiayanglao/aijiayanglao.js"
+			],
+			[
+				"longxingle",
+				"src/planbook/jianxinrenshou/jianxin_longxingle/jianxin_longxingle.js"
+			],
+			[
+				"jiankangyisheng.js",
+				"src/planbook/renshoubaoxian/jiankangyisheng/jiankangyisheng.js"
+			],
+			[
+				"zhuangyuanhong.js",
+				"src/planbook/huaxiarenshou/huaxia_zhuangyuanhong/huaxia_zhuangyuanhong.js"
+			],
+			[
+				"jiankangwuyoua.js",
+				"src/planbook/xinhuabaoxian/jiankangwuyoua/jiankangwuyoua.js"
+			],
+			[
+				"zhaungyuanhong.js",
+				"src/planbook/huaxiarenshou/zhuangyuanhong/zhuangyuanhong.js"
+			],
+			[
+				"jiankangbaifenbaib.js",
+				"src/planbook/taikangbaoxian/jiankangbaifenbaib/jiankangbaifenbaib.js"
+			],
+			[
+				"jiankangbaifenbaia.js",
+				"src/planbook/taikangbaoxian/jiankangbaifenbaia/jiankangbaifenbaia.js"
+			],
+			[
+				"tinypng.js",
+				"gulp/tinypng.js"
+			],
+			[
+				"jiankangwuyou.js",
+				"src/planbook/xinhuabaoxian/jiankangwuyoua/jiankangwuyoua.js"
+			],
+			[
+				"jiankangwuyou",
+				"dest/jiankangwuyoua.html"
+			],
+			[
+				"geren_z",
+				"src/planbook/renshoubaoxian/geren_zijinanquan/geren_zijinanquan.js"
+			],
+			[
+				"geren_",
+				"dest/js/geren_zijinanquan.js"
+			],
+			[
+				"caifuwenyiing.js",
+				"src/planbook/taipingbaoxian/caifuwenyiing/caifuwenyiing.js"
+			],
+			[
+				"jinseqiancheng.js",
+				"src/planbook/taipingbaoxian/jinseqiancheng/jinseqiancheng.js"
+			],
+			[
+				"deyijinjia.js",
+				"src/planbook/dehuaangu/deyijinjia/deyijinjia.js"
+			],
+			[
+				"deyijinjia",
+				"dest/js/deyijinjia.js"
+			],
+			[
+				"zhongheyiwai.js",
+				"src/planbook/taipingbaoxian/zhongheyiwai/zhongheyiwai.js"
+			],
+			[
+				"baiwanrenwoxing.js",
+				"src/planbook/zhongguopingan/baiwanrenwoxing/baiwanrenwoxing.js"
+			],
+			[
+				"aibeijia.js",
+				"src/planbook/zhongguopingan/aibeijia/aibeijia.js"
+			],
+			[
+				"shaoerpinganfu.js",
+				"src/planbook/zhongguopingan/shaoerpinganfu/shaoerpinganfu.js"
+			],
+			[
+				"parsesrvd",
+				"src/js/common/parseSrvData.js"
+			],
+			[
+				"geren_zijian",
+				"src/planbook/renshoubaoxian/geren_zijinanquan/geren_zijinanquan.js"
+			],
+			[
+				"inject.js",
+				"test/inject.json"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"wuyouka",
+				"src/planbook/taipingyang/wuyouka/wuyouka.js"
+			],
+			[
+				"wuyouka.js",
+				"src/planbook/taipingyang/wuyouka/wuyouka.js"
+			],
+			[
+				"config.js",
+				"src/demo/yiwai/config.js"
+			],
+			[
+				"_jiaoyu",
+				"金色前程/template/partials/_jiaoyu.hbs"
+			],
+			[
+				"jinseqiancheng.hbs",
+				"金色前程/jinseqiancheng.hbs"
+			],
+			[
+				"jinseqiancheng",
+				"金色前程/jinseqiancheng.hbs"
+			],
+			[
+				"package",
+				"new-planbook-result2/package.json"
+			],
+			[
+				"_jinses",
+				"new-planbook-result2/src/planbook/taipingbaoxian/jinseqiancheng/template/partials/_jinseqiancheng.hbs"
+			],
+			[
+				"shaoerpinganfu.html",
+				"new-planbook-result2/src/planbook/zhongguopingan/shaoerpinganfu/shaoerpinganfu.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sails",
+				"~/test/sublime-project/sails-test.sublime-project"
+			],
+			[
+				"chexian",
+				"~/test/work/active/src/wy_chexian_management.sublime-workspace"
+			],
+			[
+				"common",
+				"~/test/html_test_common/html_test_common.sublime-project"
+			],
+			[
+				"react",
+				"~/test/react/react_test.sublime-project"
+			],
+			[
+				"resulet2",
+				"~/work/wy_frontend/new-planbook-result2/planbook-result2.sublime-workspace"
+			],
+			[
+				"fed",
+				"~/work/fed-workflows/fed-workflows.sublime-project"
+			],
+			[
+				"fee",
+				"~/test/angularjs-test/promotion-fee-mgt.sublime-project"
+			],
+			[
+				"work",
+				"~/work/fed-workflows/fed-workflows.sublime-project"
+			],
+			[
+				"com",
+				"~/test/html_test_common/html_test_common.sublime-project"
+			],
+			[
+				"icon",
+				"~/test/svg_font/symbols-for-sketch-master/icon-sketch.sublime-project"
+			],
+			[
+				"result2",
+				"~/test/sublime-project/planboo-result2.sublime-project"
+			],
+			[
+				"group",
+				"~/test/sublime-project/planbook-form-group.sublime-project"
+			],
+			[
+				"",
+				"~/work/wy_frontend/new-planbook-result2/planbook-result2.sublime-project"
+			],
+			[
+				"video",
+				"~/work/wy_frontend/videojs_demo/wy_video_demo.sublime-project"
+			],
+			[
+				"result",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/newplanbook-result2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

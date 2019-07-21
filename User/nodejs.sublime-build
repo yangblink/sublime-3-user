@@ -1,0 +1,4 @@
+{
+    "cmd": ["/Users/yangblink/.nvm/versions/node/v9.11.2/bin/node", "$file"],
+    "selector": "source.js"
+}

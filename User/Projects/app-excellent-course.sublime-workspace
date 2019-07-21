@@ -1,0 +1,1413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"newsi",
+				"newsUuid"
+			],
+			[
+				"succ",
+				"successFunc"
+			],
+			[
+				"act",
+				"actionGroup"
+			],
+			[
+				"news",
+				"newsUuid"
+			],
+			[
+				"zan",
+				"zanLoading"
+			],
+			[
+				"new",
+				"newsDetail"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"inle",
+				"inline-block"
+			],
+			[
+				"ini",
+				"initImg"
+			],
+			[
+				"canvs",
+				"canvasData"
+			],
+			[
+				"up",
+				"uploadData"
+			],
+			[
+				"file",
+				"fileList"
+			],
+			[
+				"bas",
+				"BASE_API"
+			],
+			[
+				"cand",
+				"videoCanDrag"
+			],
+			[
+				"uplo",
+				"upload"
+			],
+			[
+				"canva",
+				"canvas"
+			],
+			[
+				"uploa",
+				"uploadData"
+			],
+			[
+				"fie",
+				"file"
+			],
+			[
+				"canv",
+				"canvasData"
+			],
+			[
+				"data",
+				"canvasData"
+			],
+			[
+				"swap",
+				"swapPeriodDetail"
+			],
+			[
+				"stringi",
+				"stringifyArray"
+			],
+			[
+				"per",
+				"periodIndex"
+			],
+			[
+				"audio",
+				"audio"
+			],
+			[
+				"parse",
+				"parseArray"
+			],
+			[
+				"defau",
+				"defautlPeriodList"
+			],
+			[
+				"defa",
+				"defaultList"
+			],
+			[
+				"tem",
+				"tempIndex"
+			],
+			[
+				"audi",
+				"audioList"
+			],
+			[
+				"vide",
+				"videoList"
+			],
+			[
+				"sera",
+				"searchData"
+			],
+			[
+				"sear",
+				"searchData"
+			],
+			[
+				"ma",
+				"materialUrl"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"coup",
+				"couponProductDTOList"
+			],
+			[
+				"proto",
+				"protocol"
+			],
+			[
+				"is",
+				"isNew"
+			],
+			[
+				"showd",
+				"showDetailModal"
+			],
+			[
+				"tot",
+				"totalItem"
+			],
+			[
+				"cl",
+				"cl\tconsole.log"
+			],
+			[
+				"we",
+				"showWechatModal"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"des",
+				"describe"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"remain",
+				"remianCountField"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"perio",
+				"periodTypeField"
+			],
+			[
+				"quanty",
+				"quanType"
+			],
+			[
+				"quantyp",
+				"quanType"
+			],
+			[
+				"quantype",
+				"quanTypeFilter"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"dete",
+				"detectObj"
+			],
+			[
+				"detec",
+				"detectName"
+			],
+			[
+				"analy",
+				"analytidcInit"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"goto",
+				"gotoH5"
+			],
+			[
+				"orgin",
+				"originalPrice"
+			],
+			[
+				"quant",
+				"quanType"
+			],
+			[
+				"pagifn",
+				"pageInfo"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"mob",
+				"mobileFocus"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"buy",
+				"buyMod"
+			],
+			[
+				"text",
+				"text-top"
+			],
+			[
+				"coo",
+				"cookieId"
+			],
+			[
+				"ng",
+				"ngdirect\tangular.js"
+			],
+			[
+				"base",
+				"baseFaqUrl"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"tomorr",
+				"tomorrowGem"
+			],
+			[
+				"torr",
+				"tomorrowPointsNum"
+			],
+			[
+				"test",
+				"testTime"
+			],
+			[
+				"jum",
+				"jumpObj"
+			],
+			[
+				"gotona",
+				"gotoNativeView"
+			],
+			[
+				"__",
+				"__TEST__"
+			],
+			[
+				"reqe",
+				"request"
+			],
+			[
+				"jump",
+				"jumpParam"
+			],
+			[
+				"produ",
+				"productStatusTable"
+			],
+			[
+				"getpro",
+				"getProductStatus"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"signre",
+				"signRemindStatus"
+			],
+			[
+				"quan",
+				"quanMod"
+			],
+			[
+				"rep",
+				"repeat"
+			],
+			[
+				"backgru",
+				"background-repeat"
+			],
+			[
+				"repe",
+				"repeat-y"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"border-rad",
+				"border-top-right-radius"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"gemTo",
+				"gemTomorrow"
+			],
+			[
+				"cosn",
+				"console.log"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"pag",
+				"paginationOptions"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"adjus",
+				"adjustType"
+			],
+			[
+				"ajd",
+				"adjustType"
+			],
+			[
+				"bascon",
+				"baseConfig"
+			],
+			[
+				"submit",
+				"submitUrl"
+			],
+			[
+				"userinfo",
+				"userInfo"
+			],
+			[
+				"sidenav",
+				"sidenavAccess"
+			],
+			[
+				"userfi",
+				"userInfo"
+			],
+			[
+				"showcomm",
+				"ShowCommission"
+			],
+			[
+				"promotion",
+				"promotionInfo"
+			],
+			[
+				"pagis",
+				"pageSize"
+			],
+			[
+				"bnew",
+				"bNewInfo"
+			],
+			[
+				"black",
+				"blacklist"
+			],
+			[
+				"USERI",
+				"userId"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"tag",
+				"TagStatusOperateName"
+			],
+			[
+				"atomid",
+				"atomIds"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/yangblink/work/app-excellent-course/src/pages/pack-course/index.vue",
+			"settings":
+			{
+				"buffer_size": 9170,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/work/app-excellent-course/src/utils/common.js",
+			"settings":
+			{
+				"buffer_size": 18994,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add ne",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add ",
+				"Project Manager: Add New Project"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"add proje",
+				"Project Manager: Add New Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syt css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax",
+				"Set Syntax: JSON"
+			],
+			[
+				"themem",
+				"Material Theme: Activate theme"
+			],
+			[
+				"HTTP",
+				"HTMLPrettify"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"HT",
+				"HTMLPrettify"
+			],
+			[
+				"jsong",
+				"Preferences: Pretty JSON Settings - User"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"htt",
+				"HTMLPrettify"
+			],
+			[
+				"http",
+				"HTMLPrettify"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"syntax: json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"httppre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"prettiy ",
+				"HTMLPrettify"
+			],
+			[
+				"set syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ope",
+				"Terminal: Open"
+			],
+			[
+				"jsonf",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"openresou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"op",
+				"Terminal: Open"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"handleb",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 313.0,
+		"history":
+		[
+			"sublime.log_command(True)",
+			"Lorem",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yangblink/work/app-excellent-course",
+		"/Users/yangblink/work/app-excellent-course/src",
+		"/Users/yangblink/work/app-excellent-course/src/pages",
+		"/Users/yangblink/work/app-excellent-course/src/pages/pack-course",
+		"/Users/yangblink/work/app-excellent-course/src/utils"
+	],
+	"file_history":
+	[
+		"/Users/yangblink/work/app-eclass/src/pages/media/media.vue",
+		"/Users/yangblink/work/app-eclass/src/pages/circle/circle.vue",
+		"/Users/yangblink/work/app-eclass/config/index.js",
+		"/Users/yangblink/work/app-eclass/src/utils/api.js",
+		"/Users/yangblink/work/app-eclass/src/pages/circle/circle.scss",
+		"/Users/yangblink/work/app-eclass/src/pages/login/login.vue",
+		"/Users/yangblink/work/app-eclass/src/utils/request.js",
+		"/Users/yangblink/work/app-eclass/src/utils/env.js",
+		"/Users/yangblink/work/app-eclass/src/utils/fetch.js",
+		"/Users/yangblink/work/app-eclass/README.md",
+		"/Users/yangblink/work/app-eclass/src/pages/circle/circle.html",
+		"/Users/yangblink/work/app-eclass/src/utils/index.js",
+		"/Users/yangblink/work/app-eclass/build/webpack.prod.conf.js",
+		"/Users/yangblink/Downloads/WechatIMG8.png",
+		"/Users/yangblink/work/app-eclass/src/components/pdf-view/pdf-view.vue",
+		"/Users/yangblink/work/app-eclass/package.json",
+		"/Users/yangblink/work/app-eclass/.babelrc",
+		"/Users/yangblink/work/app-eclass/src/pages/material-list/material-list.vue",
+		"/Users/yangblink/work/app-eclass/src/pages/lesson-detail/lesson-detail.vue",
+		"/Users/yangblink/work/app-eclass/src/pages/lesson-detail/lesson-detail.js",
+		"/Users/yangblink/work/app-eclass/src/components/pdf-view/pdf-view.scss",
+		"/Users/yangblink/work/app-eclass/src/pages/lesson-detail/lesson-detail.scss",
+		"/Users/yangblink/work/app-eclass/src/components/media-group/media-group.vue",
+		"/Users/yangblink/work/app-eclass/src/components/video-player/video-player.vue",
+		"/Users/yangblink/work/app-eclass/src/components/audio-player/audio-player.vue",
+		"/Users/yangblink/work/management-content/src/views/eclass/traintime/index.vue",
+		"/Users/yangblink/work/management-content/src/components/upload/pdfUpload.vue",
+		"/Users/yangblink/work/management-content/src/api/oss.js",
+		"/Users/yangblink/work/management-content/src/api/index.js",
+		"/Users/yangblink/work/management-content/src/mixin/oss.js",
+		"/Users/yangblink/work/management-content/src/utils/request.js",
+		"/Users/yangblink/work/management-content/src/views/eclass/period/index.vue",
+		"/Users/yangblink/work/management-content/src/views/eclass/traintime/store.js",
+		"/Users/yangblink/work/management-content/src/api/eclass.js",
+		"/Users/yangblink/work/management-content/src/views/eclass/period/store.js",
+		"/Users/yangblink/work/management-content/src/views/eclass/train/store.js",
+		"/Users/yangblink/work/management-content/src/views/eclass/train/index.vue",
+		"/Users/yangblink/work/management-content/src/views/eclass/train/detailModal.vue",
+		"/Users/yangblink/work/management-content/src/views/eclass/nationalTrain/detailModal.vue",
+		"/Users/yangblink/work/management-content/src/views/eclass/nationalTrain/index.vue",
+		"/Users/yangblink/work/management-content/src/views/eclass/train/periodModal.vue",
+		"/Users/yangblink/work/management-content/src/components/Tinymce/index.vue",
+		"/Users/yangblink/work/management-content/src/components/ImgUpload.vue",
+		"/Users/yangblink/work/management-content/src/router/eclass.js",
+		"/Users/yangblink/work/management-content/src/components/upload/fileUpload.vue",
+		"/Users/yangblink/work/management-content/src/views/eclass/site/detailModal.vue",
+		"/Users/yangblink/work/management-content/src/views/eclass/nationalTrain/store.js",
+		"/Users/yangblink/work/management-content/src/views/eclass/site/store.js",
+		"/Users/yangblink/work/management-content/src/views/eclass/site/index.vue",
+		"/Users/yangblink/work/management-content/src/components/banner/index.vue",
+		"/Users/yangblink/work/management-content/src/components/banner/bannerModal.vue",
+		"/Users/yangblink/work/management-content/package.json",
+		"/Users/yangblink/work/management-content/src/views/classroom/higher-ups-audio/DetailDialog.vue",
+		"/Users/yangblink/work/management-content/src/views/classroom/pay-class/DetailDialog.vue",
+		"/Users/yangblink/work/management-content/src/views/eclass/nationalTrain/filters.js",
+		"/Users/yangblink/work/management-content/src/views/eclass/train/filters.js",
+		"/Users/yangblink/work/management-content/src/views/classroom/coupon/batchReceive.vue",
+		"/Users/yangblink/work/management-content/src/router/index.js",
+		"/Users/yangblink/work/management-content/src/views/layout/components/AppMain.vue",
+		"/Users/yangblink/work/management-content/src/api/classroom.js",
+		"/Users/yangblink/work/management-content/src/main.js",
+		"/Users/yangblink/work/management-content/src/views/classroom/coupon/index.vue",
+		"/Users/yangblink/work/management-content/src/views/classroom/coupon/receiveModal.vue",
+		"/Users/yangblink/work/management-content/src/views/classroom/coupon/store.js",
+		"/Users/yangblink/work/management-content/src/api/coupon.js",
+		"/Users/yangblink/work/management-content/.gitlab-ci.yml",
+		"/Users/yangblink/work/management-content/src/views/classroom/pay-column/WechatDialog.vue",
+		"/Users/yangblink/work/management-content/src/store/modules/user.js",
+		"/Users/yangblink/work/management-content/src/views/login/index.vue",
+		"/Users/yangblink/work/management-content/config/index.js",
+		"/Users/yangblink/work/management-content/src/views/classroom/coupon/detailModal.vue",
+		"/Users/yangblink/work/management-content/src/views/content/topic/DetailDialog.vue",
+		"/Users/yangblink/work/management-content/src/views/classroom/coupon/courseModal.vue",
+		"/Users/yangblink/work/management-content/src/views/classroom/pay-column/Index.vue",
+		"/Users/yangblink/work/management-content/src/router/classroom.js",
+		"/Users/yangblink/work/fed-toolset/views/imageupload.ejs",
+		"/Users/yangblink/work/fed-toolset/routes/index.js",
+		"/Users/yangblink/work/fed-toolset/models/oss.js",
+		"/Users/yangblink/work/fed-toolset/ecosystem.config.js",
+		"/Users/yangblink/work/fed-toolset/package.json",
+		"/Users/yangblink/work/fed-toolset/README.md",
+		"/Users/yangblink/work/fed-toolset/config/config.json",
+		"/Users/yangblink/work/fed-toolset/bin/www",
+		"/Users/yangblink/work/fed-toolset/deploy.sh",
+		"/Users/yangblink/work/fed-toolset/controllers/upload/upload_to_oss.js",
+		"/Users/yangblink/work/fed-toolset/routes/pages.js",
+		"/Users/yangblink/work/fed-toolset/app.js",
+		"/Users/yangblink/work/fed-toolset/controllers/upload.js",
+		"/Users/yangblink/work/fed-toolset/routes/users.js",
+		"/Users/yangblink/work/fed-toolset/routes/cdn.js",
+		"/Users/yangblink/work/fed-toolset/auth/index.js",
+		"/Users/yangblink/work/fed-toolset/controllers/ossKey.js",
+		"/Users/yangblink/work/fed-toolset/routes/iconfont.js",
+		"/Users/yangblink/work/fed-toolset/controllers/iconfont/iconfont.js",
+		"/Users/yangblink/work/fed-toolset/controllers/iconfont/icons.js",
+		"/Users/yangblink/work/fed-toolset/client/src/pages/cdn_eshop/cdn_eshop.vue",
+		"/Users/yangblink/work/fed-toolset/client/src/common/icons/icons.vue",
+		"/Users/yangblink/work/fed-toolset/models/index.js",
+		"/Users/yangblink/work/fed-toolset/client/gulpfile.js",
+		"/Users/yangblink/work/fed-toolset/node_modules/gulp-mmtrix/index.js",
+		"/Users/yangblink/work/fed-toolset/routes/upload.js",
+		"/Users/yangblink/test/github/express/lib/middleware/query.js",
+		"/Users/yangblink/test/github/express/lib/express.js",
+		"/Users/yangblink/test/github/express/lib/request.js",
+		"/Users/yangblink/test/github/express/examples/hello-world/index.js",
+		"/Users/yangblink/work/fed-toolset/client/src/common/upload/upload.vue",
+		"/Users/yangblink/work/fed-engineering/express-githook/view/home.ejs",
+		"/Users/yangblink/work/fed-engineering/iconfont-aliyun/package.json",
+		"/Users/yangblink/work/fed-engineering/express-githook/controllers/resource_upload_ctrl.js",
+		"/Users/yangblink/work/fed-engineering/express-githook/app/app.js",
+		"/Users/yangblink/work/fed-engineering/iconfont-aliyun/app/ctrl/proxyApi.js",
+		"/Users/yangblink/work/fed-engineering/express-githook/view/imageupload.ejs",
+		"/Users/yangblink/work/fed-engineering/iconfont-aliyun/app/app.js",
+		"/Users/yangblink/work/fed-engineering/iconfont-aliyun/app/ctrl/index.js",
+		"/Users/yangblink/work/fed-engineering/express-githook/controllers/image_min_ctrl.js",
+		"/Users/yangblink/work/fed-engineering/iconfont-aliyun/app/ctrl/remote-src.js",
+		"/Users/yangblink/work/fed-engineering/express-githook/package.json",
+		"/Users/yangblink/work/fed-engineering/iconfont-aliyun/app/aliyun-iconfont/config.js",
+		"/Users/yangblink/work/fed-engineering/iconfont-aliyun/app/ctrl/login-aliyun-iconfont.js",
+		"/Users/yangblink/work/fed-engineering/iconfont-aliyun/app/ctrl/login.js",
+		"/Users/yangblink/work/fed-engineering/express-githook/app/upload.js",
+		"/Users/yangblink/work/meican-auto/app/app.js",
+		"/Users/yangblink/work/meican-auto/app/config/config.json",
+		"/Users/yangblink/work/meican-auto/app/static/login.html",
+		"/Users/yangblink/work/meican-auto/client/config/index.js",
+		"/Users/yangblink/work/meican-auto/clear.sh",
+		"/Users/yangblink/work/meican-auto/.dockerignore",
+		"/Users/yangblink/work/meican-auto/client/gulpfile.js"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"isProduction",
+			"initWechatShare",
+			"commonShare"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/yangblink/work/app-excellent-course/src/pages/pack-course/index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4870,
+								4881
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 2865.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/yangblink/work/app-excellent-course/src/utils/common.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18994,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										16302,
+										16313
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								8439,
+								8439
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app-excellent-course.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".gitlab-c",
+				".gitlab-ci.yml"
+			],
+			[
+				"uploa",
+				"controllers/upload.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"my.te",
+				"my.test.js"
+			],
+			[
+				".gitign",
+				".gitignore"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"data-s",
+				"client/src/common/services/data-service.js"
+			],
+			[
+				"pro",
+				"build/proxy-middleware.js"
+			],
+			[
+				"tips.js",
+				"client/src/app/tips/tips.js"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"app.js",
+				"express/app/app.js"
+			],
+			[
+				"jquery.js",
+				"dest/js/jquery.js"
+			],
+			[
+				"jiankangyijiayi.js",
+				"src/planbook/taikangbaoxian/jiankangyijiayi/jiankangyijiayi.js"
+			],
+			[
+				"video.js",
+				"node_modules/video.js/dist/video.js"
+			],
+			[
+				"aijiayanglao.js",
+				"src/planbook/taikangrenshou/aijiayanglao/aijiayanglao.js"
+			],
+			[
+				"test.js",
+				"express/app/test.js"
+			],
+			[
+				"yanglao",
+				"src/planbook/taikangrenshou/aijiayanglao/aijiayanglao.js"
+			],
+			[
+				"longxingle",
+				"src/planbook/jianxinrenshou/jianxin_longxingle/jianxin_longxingle.js"
+			],
+			[
+				"jiankangyisheng.js",
+				"src/planbook/renshoubaoxian/jiankangyisheng/jiankangyisheng.js"
+			],
+			[
+				"zhuangyuanhong.js",
+				"src/planbook/huaxiarenshou/huaxia_zhuangyuanhong/huaxia_zhuangyuanhong.js"
+			],
+			[
+				"jiankangwuyoua.js",
+				"src/planbook/xinhuabaoxian/jiankangwuyoua/jiankangwuyoua.js"
+			],
+			[
+				"zhaungyuanhong.js",
+				"src/planbook/huaxiarenshou/zhuangyuanhong/zhuangyuanhong.js"
+			],
+			[
+				"jiankangbaifenbaib.js",
+				"src/planbook/taikangbaoxian/jiankangbaifenbaib/jiankangbaifenbaib.js"
+			],
+			[
+				"jiankangbaifenbaia.js",
+				"src/planbook/taikangbaoxian/jiankangbaifenbaia/jiankangbaifenbaia.js"
+			],
+			[
+				"tinypng.js",
+				"gulp/tinypng.js"
+			],
+			[
+				"jiankangwuyou.js",
+				"src/planbook/xinhuabaoxian/jiankangwuyoua/jiankangwuyoua.js"
+			],
+			[
+				"jiankangwuyou",
+				"dest/jiankangwuyoua.html"
+			],
+			[
+				"geren_z",
+				"src/planbook/renshoubaoxian/geren_zijinanquan/geren_zijinanquan.js"
+			],
+			[
+				"geren_",
+				"dest/js/geren_zijinanquan.js"
+			],
+			[
+				"caifuwenyiing.js",
+				"src/planbook/taipingbaoxian/caifuwenyiing/caifuwenyiing.js"
+			],
+			[
+				"jinseqiancheng.js",
+				"src/planbook/taipingbaoxian/jinseqiancheng/jinseqiancheng.js"
+			],
+			[
+				"deyijinjia.js",
+				"src/planbook/dehuaangu/deyijinjia/deyijinjia.js"
+			],
+			[
+				"deyijinjia",
+				"dest/js/deyijinjia.js"
+			],
+			[
+				"zhongheyiwai.js",
+				"src/planbook/taipingbaoxian/zhongheyiwai/zhongheyiwai.js"
+			],
+			[
+				"baiwanrenwoxing.js",
+				"src/planbook/zhongguopingan/baiwanrenwoxing/baiwanrenwoxing.js"
+			],
+			[
+				"aibeijia.js",
+				"src/planbook/zhongguopingan/aibeijia/aibeijia.js"
+			],
+			[
+				"shaoerpinganfu.js",
+				"src/planbook/zhongguopingan/shaoerpinganfu/shaoerpinganfu.js"
+			],
+			[
+				"parsesrvd",
+				"src/js/common/parseSrvData.js"
+			],
+			[
+				"geren_zijian",
+				"src/planbook/renshoubaoxian/geren_zijinanquan/geren_zijinanquan.js"
+			],
+			[
+				"inject.js",
+				"test/inject.json"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"wuyouka",
+				"src/planbook/taipingyang/wuyouka/wuyouka.js"
+			],
+			[
+				"wuyouka.js",
+				"src/planbook/taipingyang/wuyouka/wuyouka.js"
+			],
+			[
+				"config.js",
+				"src/demo/yiwai/config.js"
+			],
+			[
+				"_jiaoyu",
+				"金色前程/template/partials/_jiaoyu.hbs"
+			],
+			[
+				"jinseqiancheng.hbs",
+				"金色前程/jinseqiancheng.hbs"
+			],
+			[
+				"jinseqiancheng",
+				"金色前程/jinseqiancheng.hbs"
+			],
+			[
+				"package",
+				"new-planbook-result2/package.json"
+			],
+			[
+				"_jinses",
+				"new-planbook-result2/src/planbook/taipingbaoxian/jinseqiancheng/template/partials/_jinseqiancheng.hbs"
+			],
+			[
+				"shaoerpinganfu.html",
+				"new-planbook-result2/src/planbook/zhongguopingan/shaoerpinganfu/shaoerpinganfu.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sails",
+				"~/test/sublime-project/sails-test.sublime-project"
+			],
+			[
+				"chexian",
+				"~/test/work/active/src/wy_chexian_management.sublime-workspace"
+			],
+			[
+				"common",
+				"~/test/html_test_common/html_test_common.sublime-project"
+			],
+			[
+				"react",
+				"~/test/react/react_test.sublime-project"
+			],
+			[
+				"resulet2",
+				"~/work/wy_frontend/new-planbook-result2/planbook-result2.sublime-workspace"
+			],
+			[
+				"fed",
+				"~/work/fed-workflows/fed-workflows.sublime-project"
+			],
+			[
+				"fee",
+				"~/test/angularjs-test/promotion-fee-mgt.sublime-project"
+			],
+			[
+				"work",
+				"~/work/fed-workflows/fed-workflows.sublime-project"
+			],
+			[
+				"com",
+				"~/test/html_test_common/html_test_common.sublime-project"
+			],
+			[
+				"icon",
+				"~/test/svg_font/symbols-for-sketch-master/icon-sketch.sublime-project"
+			],
+			[
+				"result2",
+				"~/test/sublime-project/planboo-result2.sublime-project"
+			],
+			[
+				"group",
+				"~/test/sublime-project/planbook-form-group.sublime-project"
+			],
+			[
+				"",
+				"~/work/wy_frontend/new-planbook-result2/planbook-result2.sublime-project"
+			],
+			[
+				"video",
+				"~/work/wy_frontend/videojs_demo/wy_video_demo.sublime-project"
+			],
+			[
+				"result",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/newplanbook-result2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

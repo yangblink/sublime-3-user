@@ -1,0 +1,1373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exc",
+				"excelAddr"
+			],
+			[
+				"jso",
+				"json"
+			],
+			[
+				"upd",
+				"updateSeason"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"wor",
+				"wrongAnswer2"
+			],
+			[
+				"wr",
+				"wrongAnswer1"
+			],
+			[
+				"updat",
+				"updateQuestion"
+			],
+			[
+				"layou",
+				"Layout"
+			],
+			[
+				"errmsg",
+				"errMsgAry"
+			],
+			[
+				"product",
+				"productId"
+			],
+			[
+				"produc",
+				"productId"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"pag",
+				"paginationOptions"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"adjus",
+				"adjustType"
+			],
+			[
+				"ajd",
+				"adjustType"
+			],
+			[
+				"bascon",
+				"baseConfig"
+			],
+			[
+				"submit",
+				"submitUrl"
+			],
+			[
+				"userinfo",
+				"userInfo"
+			],
+			[
+				"sidenav",
+				"sidenavAccess"
+			],
+			[
+				"userfi",
+				"userInfo"
+			],
+			[
+				"showcomm",
+				"ShowCommission"
+			],
+			[
+				"promotion",
+				"promotionInfo"
+			],
+			[
+				"pagis",
+				"pageSize"
+			],
+			[
+				"bnew",
+				"bNewInfo"
+			],
+			[
+				"black",
+				"blacklist"
+			],
+			[
+				"USERI",
+				"userId"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"tag",
+				"TagStatusOperateName"
+			],
+			[
+				"atomid",
+				"atomIds"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"atomt",
+				"atomTagSelected"
+			],
+			[
+				"cat",
+				"categorySelected"
+			],
+			[
+				"leve",
+				"level1"
+			],
+			[
+				"lev",
+				"level1"
+			],
+			[
+				"level",
+				"level2"
+			],
+			[
+				"mock",
+				"mockSrv"
+			],
+			[
+				"subcat",
+				"subCategory"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"subcategor",
+				"subCategorySelected"
+			],
+			[
+				"category",
+				"categorySelected"
+			],
+			[
+				"catg",
+				"categoryList"
+			],
+			[
+				"dat",
+				"dataSvc"
+			],
+			[
+				"editor",
+				"EditorTagCtrl"
+			],
+			[
+				"pagin",
+				"pageInfo"
+			],
+			[
+				"user",
+				"USERTAG_COFNIG"
+			],
+			[
+				"communit",
+				"communityNav"
+			],
+			[
+				"isn",
+				"isNewPosts"
+			],
+			[
+				"para",
+				"param"
+			],
+			[
+				"topp",
+				"topposts"
+			],
+			[
+				"repla",
+				"replaceStr"
+			],
+			[
+				"old",
+				"oldV"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"show",
+				"show"
+			],
+			[
+				"page",
+				"pageInfo"
+			],
+			[
+				"type",
+				"typeobj"
+			],
+			[
+				"userty",
+				"userType"
+			],
+			[
+				"posti",
+				"postid"
+			],
+			[
+				"img",
+				"imgStr"
+			],
+			[
+				"item",
+				"itemStatus"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"upload",
+				"uploaderID"
+			],
+			[
+				"uplo",
+				"uploaderID"
+			],
+			[
+				"new",
+				"newUploader"
+			],
+			[
+				"post",
+				"postId"
+			],
+			[
+				"sele",
+				"selectedGood"
+			],
+			[
+				"shortcall",
+				"shortCallErr"
+			],
+			[
+				"par",
+				"param"
+			],
+			[
+				"sera",
+				"searchResult"
+			],
+			[
+				"commu",
+				"COMMUNITY_CONFIG"
+			],
+			[
+				"tabl",
+				"TABLE_LIST_CONFIG"
+			],
+			[
+				"commun",
+				"communitySvc"
+			],
+			[
+				"genter",
+				"generateServiceGroup"
+			],
+			[
+				"http",
+				"httpParamSerializerJQLike"
+			],
+			[
+				"htt",
+				"httpParamSerializerJQLike"
+			],
+			[
+				"HTTP",
+				"httpParamSerializerJQLike"
+			],
+			[
+				"popu",
+				"popup2"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"plan",
+				"planbook_dir"
+			],
+			[
+				"insur",
+				"insure1"
+			],
+			[
+				"add",
+				"add1"
+			],
+			[
+				"zhuyuand",
+				"zhuyuanDailybaoe"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"baoe",
+				"baoe2"
+			],
+			[
+				"setba",
+				"setbaoe2"
+			],
+			[
+				"setb",
+				"setbaoe1"
+			],
+			[
+				"util",
+				"utileData"
+			],
+			[
+				"insure",
+				"insurance"
+			],
+			[
+				"ini",
+				"initData"
+			],
+			[
+				"vide",
+				"videojs_onload"
+			],
+			[
+				"video",
+				"video_attr"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"preset",
+				"preset_videojs"
+			],
+			[
+				"pres",
+				"preset_videojs"
+			],
+			[
+				"showord",
+				"showOrderHas"
+			],
+			[
+				"showro",
+				"showOrderHas"
+			],
+			[
+				"showor",
+				"showOrderRemain"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"time",
+				"times"
+			],
+			[
+				"ti",
+				"times"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"requ",
+				"require_wo_cache"
+			],
+			[
+				"req",
+				"require_wo_cache"
+			],
+			[
+				"requi",
+				"require_wo_cache"
+			],
+			[
+				"main",
+				"mainInfo"
+			],
+			[
+				"ren",
+				"rename"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/yangblink/work/management-qa-summit/src/views/advance/record/record.vue",
+			"settings":
+			{
+				"buffer_size": 4354,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/yangblink/work/management-qa-summit/src/views/advance/record/recordModal.vue",
+			"settings":
+			{
+				"buffer_size": 3652,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 333.0,
+		"last_filter": "forma",
+		"selected_items":
+		[
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"add new ",
+				"Project Manager: Add New Project"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"jsont",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"jsong",
+				"Preferences: Pretty JSON Settings - Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"themem",
+				"Material Theme: Activate theme"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"HTTP",
+				"HTMLPrettify"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"HT",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"htt",
+				"HTMLPrettify"
+			],
+			[
+				"http",
+				"HTMLPrettify"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"syntax: json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"httppre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"prettiy ",
+				"HTMLPrettify"
+			],
+			[
+				"set syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ope",
+				"Terminal: Open"
+			],
+			[
+				"jsonf",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"openresou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"op",
+				"Terminal: Open"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"handleb",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 313.0,
+		"history":
+		[
+			"sublime.log_command(True)",
+			"Lorem",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yangblink/work/management-qa-summit"
+	],
+	"file_history":
+	[
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/season/seasonModal.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/season/seasonConfig.vue",
+		"/Users/yangblink/work/management-qa-summit/src/utils/validate.js",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/level/levelModal.vue",
+		"/Users/yangblink/work/management-qa-summit/src/components/Upload/imgPreviewUpload.vue",
+		"/Users/yangblink/work/management-qa-summit/src/utils/request/request.js",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/question/questionManage.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/record/recordModal.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/record/record.vue",
+		"/Users/yangblink/work/management-qa-summit/src/api/advance.js",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/filter.js",
+		"/Users/yangblink/work/management-qa-summit/config/index.js",
+		"/Users/yangblink/work/management-qa-summit/src/utils/index.js",
+		"/Users/yangblink/work/management-qa-summit/src/utils/fetch.js",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/question/questionModal.vue",
+		"/Users/yangblink/work/management-qa-summit/src/components/Upload/ossExcelUpload.vue",
+		"/Users/yangblink/work/management-qa-summit/src/utils/mixin/oss.js",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/level/levelConfig.vue",
+		"/Users/yangblink/work/management-qa-summit/src/router/index.js",
+		"/Users/yangblink/work/management-qa-summit/src/api/oss.js",
+		"/Users/yangblink/work/management-qa-summit/src/mixin/oss.js",
+		"/Users/yangblink/work/management-qa-summit/src/components/Upload/ossImgPreviewUpload.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/question/questionModal.vue",
+		"/Users/yangblink/work/management-qa-summit/src/components/Upload/weiyiImage.vue",
+		"/Users/yangblink/work/management-qa-summit/src/components/Upload/ossImgUpload.vue",
+		"/Users/yangblink/work/management-qa-summit/src/api/question.js",
+		"/Users/yangblink/work/management-qa-summit/src/filters/index.js",
+		"/Users/yangblink/work/management-qa-summit/src/views/rank/rankList.vue",
+		"/Users/yangblink/work/management-qa-summit/package.json",
+		"/Users/yangblink/work/management-qa-summit/build/webpack.prod.conf.js",
+		"/Users/yangblink/work/management-qa-summit/config/dev.env.js",
+		"/Users/yangblink/work/management-qa-summit/config/prod.env.js",
+		"/Users/yangblink/work/management-qa-summit/index.html",
+		"/Users/yangblink/work/management-qa-summit/src/utils/fetch_qa.js",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/questionManage.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/levelConfig.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/seasonConfig.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/levelModal.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/questionModal.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/recordModal.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/seasonModal.vue",
+		"/Users/yangblink/work/management-qa-summit/src/styles/index.scss",
+		"/Users/yangblink/work/management-qa-summit/src/views/question/index.vue",
+		"/Users/yangblink/work/management-qa-summit/src/views/question/filter.js",
+		"/Users/yangblink/work/management-qa-summit/src/views/advance/record.vue",
+		"/Users/yangblink/work/management-qa-summit/src/main.js",
+		"/Users/yangblink/work/management-qa-summit/src/api/questionData.js",
+		"/Users/yangblink/work/management-qa-summit/src/components/Upload/singleImage.vue",
+		"/Users/yangblink/test/vue-test/vue-webpack/build/webpack.dev.conf.js",
+		"/Users/yangblink/test/vue-test/vue-webpack/config/index.js",
+		"/Users/yangblink/test/vue-test/vue-webpack/package.json",
+		"/Users/yangblink/test/github/mint-ui/.github/CONTRIBUTING_zh-cn.md",
+		"/Users/yangblink/test/github/mint-ui/packages/picker/src/picker.vue",
+		"/Users/yangblink/test/github/mint-ui/src/utils/popup/popup-manager.js",
+		"/Users/yangblink/test/github/mint-ui/packages/picker/src/picker-slot.vue",
+		"/Users/yangblink/test/github/mint-ui/example/pages/popup.vue",
+		"/Users/yangblink/test/github/mint-ui/example/pages/pull-up.vue",
+		"/Users/yangblink/test/github/mint-ui/example/pages/infinite-scroll.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/infinite-scroll/src/infinite-scroll.js",
+		"/Users/yangblink/test/github/mint-ui/packages/infinite-scroll/index.js",
+		"/Users/yangblink/test/github/mint-ui/packages/infinite-scroll/src/directive.js",
+		"/Users/yangblink/test/github/mint-ui/packages/popup/src/popup.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/field/src/field.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/loadmore/src/loadmore.vue",
+		"/Users/yangblink/test/github/mint-ui/example/pages/pull-down.vue",
+		"/Users/yangblink/test/github/mint-ui/src/utils/popup/index.js",
+		"/Users/yangblink/test/github/mint-ui/packages/message-box/src/message-box.vue",
+		"/Users/yangblink/test/github/mint-ui/src/style/popup.css",
+		"/Users/yangblink/test/github/mint-ui/src/utils/clickoutside.js",
+		"/Users/yangblink/test/github/mint-ui/packages/cell/src/cell.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/field/index.js",
+		"/Users/yangblink/test/github/mint-ui/packages/message-box/src/message-box.js",
+		"/Users/yangblink/test/github/mint-ui/example/pages/message-box.vue",
+		"/Users/yangblink/test/github/mint-ui/src/utils/dom.js",
+		"/Users/yangblink/test/github/mint-ui/package.json",
+		"/Users/yangblink/test/github/mint-ui/build/cooking.demo.js",
+		"/Users/yangblink/test/github/mint-ui/packages/popup/cooking.conf.js",
+		"/Users/yangblink/test/github/mint-ui/src/mixins/emitter.js",
+		"/Users/yangblink/test/github/mint-ui/src/index.js",
+		"/Users/yangblink/test/github/mint-ui/packages/lazyload/src/lazyload.js",
+		"/Users/yangblink/test/github/mint-ui/node_modules/vue/dist/vue.common.js",
+		"/Users/yangblink/test/github/mint-ui/src/style/empty.css",
+		"/Users/yangblink/test/github/mint-ui/packages/popup/index.js",
+		"/Users/yangblink/test/github/mint-ui/node_modules/boom/README.md",
+		"/Users/yangblink/test/github/mint-ui/packages/switch/src/switch.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/actionsheet/src/actionsheet.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/toast/index.js",
+		"/Users/yangblink/test/github/mint-ui/packages/toast/src/toast.vue",
+		"/Users/yangblink/test/github/mint-ui/components.json",
+		"/Users/yangblink/test/github/mint-ui/yarn.lock",
+		"/Users/yangblink/test/github/mint-ui/build/bin/build-entry.js",
+		"/Users/yangblink/test/github/mint-ui/example/pages/spinner.vue",
+		"/Users/yangblink/test/github/mint-ui/example/app.vue",
+		"/Users/yangblink/test/github/mint-ui/packages/switch/index.js",
+		"/Users/yangblink/test/github/mint-ui/packages/switch/cooking.conf.js",
+		"/Users/yangblink/test/github/mint-ui/src/style/var.css",
+		"/Users/yangblink/test/github/mint-ui/packages/switch/README.md",
+		"/Users/yangblink/test/github/mint-ui/packages/README.md",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/util.js",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/network.js",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/request.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/index/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/insureProgress/insureProgress.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/common/managerlist/index.wxss",
+		"/Users/yangblink/work/weapp-bxs-insure/common/managerlist/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/managerList/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/validator.js",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/validate-config.js",
+		"/Users/yangblink/work/weapp-bxs-insure/component/wetoast/wetoast.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/index/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/policy/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/me/me.js",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/fetch.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/manager/index.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/makePlan/makePlan.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/getInsure/getInsure.js",
+		"/Users/yangblink/work/weapp-bxs-insure/app.js",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/login.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/policy/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/test.js",
+		"/Users/yangblink/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/object-assign.js",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/makePlan/makePlan.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/manager/index.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/getInsure/getInsure.wxml",
+		"/Users/yangblink/work/weapp-bxs-insure/pages/insureProgress/insureProgress.js",
+		"/Users/yangblink/work/weapp-bxs-insure/app.json",
+		"/Users/yangblink/work/weapp-bxs-insure/utils/share.js"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 151.0,
+		"where_history":
+		[
+			"-*/node_modules/*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"formateTimeToEndDay",
+			"mobile",
+			"getTime",
+			"date",
+			"addPKSeason",
+			"validateDateRange",
+			"disabled",
+			"seasonEditAble",
+			"openModal",
+			"matchResultFilter",
+			"pageNum",
+			"options",
+			"rules",
+			"主页顶图",
+			"open",
+			"handleCurrentChange",
+			"showQuestionModal",
+			"detailModal",
+			"env_config",
+			"mg22",
+			"delImg",
+			"image-preview-wrapper",
+			"addQuestion",
+			"promotionTime",
+			"submitForm",
+			"questionModal",
+			"showQuestion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/yangblink/work/management-qa-summit/src/views/advance/record/record.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4354,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										3761,
+										3765
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								2042,
+								2042
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1037.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/yangblink/work/management-qa-summit/src/views/advance/record/recordModal.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3652,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										1271,
+										1271
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								3627,
+								3627
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1772.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "management-qa-summit.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".gitign",
+				".gitignore"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"data-s",
+				"client/src/common/services/data-service.js"
+			],
+			[
+				"pro",
+				"build/proxy-middleware.js"
+			],
+			[
+				"tips.js",
+				"client/src/app/tips/tips.js"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"app.js",
+				"express/app/app.js"
+			],
+			[
+				"jquery.js",
+				"dest/js/jquery.js"
+			],
+			[
+				"jiankangyijiayi.js",
+				"src/planbook/taikangbaoxian/jiankangyijiayi/jiankangyijiayi.js"
+			],
+			[
+				"video.js",
+				"node_modules/video.js/dist/video.js"
+			],
+			[
+				"aijiayanglao.js",
+				"src/planbook/taikangrenshou/aijiayanglao/aijiayanglao.js"
+			],
+			[
+				"test.js",
+				"express/app/test.js"
+			],
+			[
+				"yanglao",
+				"src/planbook/taikangrenshou/aijiayanglao/aijiayanglao.js"
+			],
+			[
+				"longxingle",
+				"src/planbook/jianxinrenshou/jianxin_longxingle/jianxin_longxingle.js"
+			],
+			[
+				"jiankangyisheng.js",
+				"src/planbook/renshoubaoxian/jiankangyisheng/jiankangyisheng.js"
+			],
+			[
+				"zhuangyuanhong.js",
+				"src/planbook/huaxiarenshou/huaxia_zhuangyuanhong/huaxia_zhuangyuanhong.js"
+			],
+			[
+				"jiankangwuyoua.js",
+				"src/planbook/xinhuabaoxian/jiankangwuyoua/jiankangwuyoua.js"
+			],
+			[
+				"zhaungyuanhong.js",
+				"src/planbook/huaxiarenshou/zhuangyuanhong/zhuangyuanhong.js"
+			],
+			[
+				"jiankangbaifenbaib.js",
+				"src/planbook/taikangbaoxian/jiankangbaifenbaib/jiankangbaifenbaib.js"
+			],
+			[
+				"jiankangbaifenbaia.js",
+				"src/planbook/taikangbaoxian/jiankangbaifenbaia/jiankangbaifenbaia.js"
+			],
+			[
+				"tinypng.js",
+				"gulp/tinypng.js"
+			],
+			[
+				"jiankangwuyou.js",
+				"src/planbook/xinhuabaoxian/jiankangwuyoua/jiankangwuyoua.js"
+			],
+			[
+				"jiankangwuyou",
+				"dest/jiankangwuyoua.html"
+			],
+			[
+				"geren_z",
+				"src/planbook/renshoubaoxian/geren_zijinanquan/geren_zijinanquan.js"
+			],
+			[
+				"geren_",
+				"dest/js/geren_zijinanquan.js"
+			],
+			[
+				"caifuwenyiing.js",
+				"src/planbook/taipingbaoxian/caifuwenyiing/caifuwenyiing.js"
+			],
+			[
+				"jinseqiancheng.js",
+				"src/planbook/taipingbaoxian/jinseqiancheng/jinseqiancheng.js"
+			],
+			[
+				"deyijinjia.js",
+				"src/planbook/dehuaangu/deyijinjia/deyijinjia.js"
+			],
+			[
+				"deyijinjia",
+				"dest/js/deyijinjia.js"
+			],
+			[
+				"zhongheyiwai.js",
+				"src/planbook/taipingbaoxian/zhongheyiwai/zhongheyiwai.js"
+			],
+			[
+				"baiwanrenwoxing.js",
+				"src/planbook/zhongguopingan/baiwanrenwoxing/baiwanrenwoxing.js"
+			],
+			[
+				"aibeijia.js",
+				"src/planbook/zhongguopingan/aibeijia/aibeijia.js"
+			],
+			[
+				"shaoerpinganfu.js",
+				"src/planbook/zhongguopingan/shaoerpinganfu/shaoerpinganfu.js"
+			],
+			[
+				"parsesrvd",
+				"src/js/common/parseSrvData.js"
+			],
+			[
+				"geren_zijian",
+				"src/planbook/renshoubaoxian/geren_zijinanquan/geren_zijinanquan.js"
+			],
+			[
+				"inject.js",
+				"test/inject.json"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"wuyouka",
+				"src/planbook/taipingyang/wuyouka/wuyouka.js"
+			],
+			[
+				"wuyouka.js",
+				"src/planbook/taipingyang/wuyouka/wuyouka.js"
+			],
+			[
+				"config.js",
+				"src/demo/yiwai/config.js"
+			],
+			[
+				"_jiaoyu",
+				"金色前程/template/partials/_jiaoyu.hbs"
+			],
+			[
+				"jinseqiancheng.hbs",
+				"金色前程/jinseqiancheng.hbs"
+			],
+			[
+				"jinseqiancheng",
+				"金色前程/jinseqiancheng.hbs"
+			],
+			[
+				"package",
+				"new-planbook-result2/package.json"
+			],
+			[
+				"_jinses",
+				"new-planbook-result2/src/planbook/taipingbaoxian/jinseqiancheng/template/partials/_jinseqiancheng.hbs"
+			],
+			[
+				"shaoerpinganfu.html",
+				"new-planbook-result2/src/planbook/zhongguopingan/shaoerpinganfu/shaoerpinganfu.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sails",
+				"~/test/sublime-project/sails-test.sublime-project"
+			],
+			[
+				"chexian",
+				"~/test/work/active/src/wy_chexian_management.sublime-workspace"
+			],
+			[
+				"common",
+				"~/test/html_test_common/html_test_common.sublime-project"
+			],
+			[
+				"react",
+				"~/test/react/react_test.sublime-project"
+			],
+			[
+				"resulet2",
+				"~/work/wy_frontend/new-planbook-result2/planbook-result2.sublime-workspace"
+			],
+			[
+				"fed",
+				"~/work/fed-workflows/fed-workflows.sublime-project"
+			],
+			[
+				"fee",
+				"~/test/angularjs-test/promotion-fee-mgt.sublime-project"
+			],
+			[
+				"work",
+				"~/work/fed-workflows/fed-workflows.sublime-project"
+			],
+			[
+				"com",
+				"~/test/html_test_common/html_test_common.sublime-project"
+			],
+			[
+				"icon",
+				"~/test/svg_font/symbols-for-sketch-master/icon-sketch.sublime-project"
+			],
+			[
+				"result2",
+				"~/test/sublime-project/planboo-result2.sublime-project"
+			],
+			[
+				"group",
+				"~/test/sublime-project/planbook-form-group.sublime-project"
+			],
+			[
+				"",
+				"~/work/wy_frontend/new-planbook-result2/planbook-result2.sublime-project"
+			],
+			[
+				"video",
+				"~/work/wy_frontend/videojs_demo/wy_video_demo.sublime-project"
+			],
+			[
+				"result",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/newplanbook-result2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
